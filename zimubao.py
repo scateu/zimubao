@@ -1,6 +1,8 @@
+#!/usr/bin/env python
 #-*- coding: utf8
 import pysrt
 import argparse
+import os
 
 
 parser = argparse.ArgumentParser()
@@ -10,7 +12,7 @@ args = parser.parse_args()
 
 ## 初始化单词库
 
-dictbook = open('dictionary/GRE.txt','r').read().splitlines()
+dictbook = open(os.path.join(os.path.dirname(__file__), 'dictionary/GRE.txt'),'r').read().splitlines()
 dictionary = {}
 
 for d in dictbook:

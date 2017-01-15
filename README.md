@@ -11,6 +11,12 @@
 
 示例字幕文件见 `testcase/`
 
+## Usage
+
+```bash
+zimubao.py /path/to/your/subtitles.srt
+```
+
 ## TODO
 
  - [ ] 处理时态 
