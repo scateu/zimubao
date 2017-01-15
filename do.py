@@ -18,7 +18,7 @@ for d in dictbook:
     dictionary[l[0].lower()] = l[-1]
 
 ## PySRT
-subs = pysrt.open(args.filename)
+subs = pysrt.open(args.filename,'utf8')
 
 for i in subs:
     #print i.text

@@ -3,7 +3,8 @@
 把 SRT 字幕里的生词提取出来。 其它见: [商业计划<del>输</del>书](http://scateu.me/2017/01/13/subtitles-cet4.html)。
 
 
-![DEMO](https://github.com/scateu/zimubao/raw/master/snapshots/House.of.Cards.S01E01.jpg)
+![DEMO: House of Cards](https://github.com/scateu/zimubao/raw/master/snapshots/House.of.Cards.S01E01.jpg)
+![DEMO: Yes Prime Minister](https://github.com/scateu/zimubao/raw/master/snapshots/Yes.Prime.Minister.S02E08.png)
 
 ## TODO
 
@@ -17,3 +18,4 @@
  - [X] argparse
  - [ ] argparse: stdin
  - [ ] publish to pip
+ - [ ] 处理codec错误的情况，PySRT承.受.不.了
