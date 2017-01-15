@@ -3437,7 +3437,6 @@ loosen ['lu:sn] v.变松，松开
 lope [ləup] n.轻快的步伐；v.使大步慢跑；跳跃
 lopsided ['lɔp'saidid] a.倾向一方的，不平衡的
 loquacious [ləu'kweiʃəs] a.多话的
-lot [lɔt] n.签；命运；v.抽签，划分
 lottery ['lɔtəri] n.彩票，抽彩给奖法
 lounge [laundʒ] v.懒散地倚靠；n.休息室
 loutish ['lautiʃ] a.粗鲁的
@@ -4410,7 +4409,6 @@ presentation [,prezen'teiʃən] n.介绍；描述
 presenter [pri'zentə] n.主持人
 preservative [pri'zə:vətiv] a.防腐的；n.防腐剂
 preside [pri'zaid] v.担任主席；负责；指挥
-press [pres] v.挤压
 pressing ['presiŋ] a.紧迫的，迫切的；恳切要求的
 prestige [pres'ti:ʒ] n.威信，威望，声望
 prestigious [pres'ti:dʒəs] a.有名望的，有威信的
