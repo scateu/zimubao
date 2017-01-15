@@ -1,5 +1,12 @@
 #-*- coding: utf8
 import pysrt
+import argparse
+
+
+parser = argparse.ArgumentParser()
+parser.add_argument('filename')
+args = parser.parse_args()
+
 
 ## 初始化单词库
 
@@ -11,7 +18,7 @@ for d in dictbook:
     dictionary[l[0].lower()] = l[-1]
 
 ## PySRT
-subs = pysrt.open('House.of.Cards.S01E01.WEBRip.720p.H.264.AAC.2.0-HoC.srt')
+subs = pysrt.open(args.filename)
 
 for i in subs:
     #print i.text
@@ -21,8 +28,7 @@ for i in subs:
         print t
         i.text += "%s : %s\n"%(t, dictionary[t].decode('utf8'))
 
-subs.save('House.of.Cards.S01E01.WEBRip.720p.H.264.AAC.2.0-HoC.filtered-GRE.srt')
+subs.save(args.filename.replace(".srt",".filtered-zimubao-GRE.srt"))
 
 
 ## TODO: 动词变形什么的怎么办?
-

@@ -14,4 +14,5 @@
  - [ ] 处理mkv内建字幕
  - [ ] 变成web操作
  - [ ] 引入自然语言处理的库,如Word API
+ - [X] argparse
  - [ ] argparse: stdin
