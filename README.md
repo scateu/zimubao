@@ -38,3 +38,4 @@ for i in *;do echo $i;zimubao.py "$i";done
  - [ ] 一整个SRT文件中，生词只在第一次出现? (Optional)
  - [ ] 或者根本就不用PySRT，直接全文替换得了....简单方便
  - [ ] 使用过程中: 每一部剧，可以由人工专门生成一个glossary
+ - [ ] 支持词组匹配替换
