@@ -16,3 +16,4 @@
  - [ ] 引入自然语言处理的库,如Word API
  - [X] argparse
  - [ ] argparse: stdin
+ - [ ] publish to pip
