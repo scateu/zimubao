@@ -1,0 +1,2187 @@
+﻿1   what [hwɔt] pron 什么
+2   is [iz] v 是
+3   what's [hwɔts] what is 的缩写形式
+4   your [juə] pron 你的,你们的
+5   name [neim] n 名字
+6   my [mai] pron 我的
+7   I  [ai] pron 我
+8   am [æm] v 是
+9   I'm  [aim]   I am 的缩写形式
+10   in [in] prep 在...里(内,上)
+11   row [rəu] n (一)排,(一)行
+12   one [wʌn] num 一
+13   number ['nʌmbə] n 数字,号码
+14   two [tu:] num 二
+15   too [tu:] adv 也
+16   three [θri:] num 三
+17   are [ɑ:] v 是
+18   you [ju:] pron 你,你们
+19   yes [jes] adv 是
+20   four [fɔ:] num 四
+21   five [faiv] num 五
+22   no [nəu] adv & adj 不,不是
+23   not [nɔt] adv 不
+24   hi [hai] int 喂(问候或唤起注意)
+25   class [klɑ:s] n (学校里的)班级,年级
+26   grade [greid] n 年级
+27   six [siks] num 六
+28   seven ['sevn] num 七
+29   eight [eit] num 八
+30   nine [nain] num 九
+31   ten [ten] num 十
+32   zero ['ziərəu] num & n 零
+33   plus [plʌs]  prep  加,加上
+34   it [it] pron 它
+35   It's [its] it is 的缩写形式
+36   how [hau] adv (指程度)多少,怎样
+37   old [əuld] adj ...岁的,老的
+38   eleven [i'levn] num 十一
+39   twelve [twelv] num 十二
+40   minus ['mainəs] prep减,减去
+41   thirteen ['θə:ti:n] num 十三
+42   fourteen ['fɔ:'ti:n] num 十四
+43   fifteen ['fif'ti:n] num 十五
+44   hello [hə'ləu] int喂(问候或唤起注意)
+45   please [pli:z] int 请
+46   can [kæn] v.aux 能,可以,会
+47   spell [spel] v  拼写
+48   that [ðæt] pron 那,那个
+49   secret ['si:krit] n 秘密
+50   this [ðis] pron 这,这个
+51   in [in] prep  用...(表达)
+52   English ['iŋgliʃ] n & adj 英语,英国人
+53   in English [in'iŋgliʃ]  phr. 用英语(表达)
+54   a [ei] art  一(个,件...)
+55   clock [klɔk] n 钟
+56   and [ænd] conj 和,又,而
+57   pencil-box ['penslbɔks] n 铅笔盒
+58   an [æn] art  一(个;件.)
+59   pencil ['pensl] n 铅笔
+60   ruler ['ru:lə] n 尺子
+61   pen [pen] n 钢笔
+62   sharpener ['ʃɑ:pənə]n 卷笔刀
+63   eraser [i'reisə] n 橡皮擦
+64   room [ru:m] n 房间
+65   book [buk] n 书
+66   map [mæp] n 地图
+67   desk [desk] n 书桌
+68   cup [kʌp] n 杯子
+69   bag [bæg] n 书包
+70   computer[kəm'pju:tə]n电脑,电子计算机
+71   mouse [maus]n 鼠,耗子,鼠标
+72   bed [bed] n 床
+73   keyboard ['ki:bɔ:d] n 键盘
+74   isn't ['iznt]   is not 的缩写形式
+75   pear [pɛə] n 梨
+76   cake [keik] n 蛋糕,饼,糕
+77   banana [bə'nɑ:nə] n 香蕉
+78   apple ['æpl] n 苹果
+79   orange ['ɔ:rindʒ] n 橙子,橘子
+80   egg [eg] n 蛋
+81   bike [baik] n 自行车
+82   bus [bʌs] n 公共汽车
+83   car [kɑ:] n 汽车,小汽车
+84   jeep [dʒi:p] n 吉普车
+85   Chinese['tʃai'ni:z]adj中国的,中国人的；n  中国人,汉语; n  中国人,汉语
+86   Japanese[,dʒæpə'ni:z]adj日本的,日本人; n日本人，日语
+87   look [luk] v  瞧,看
+88   who [hu:] pron 谁
+89   she [ʃi:] pron 她
+90   he [hi:] pron 他
+91   bird [bə:d] n 鸟
+92   Its [its] pron 它的
+93   do[du:]v.aux(构成否定句,疑问句的助动词)
+94   don't [dəunt] do not 的缩写形式
+95   know [nəu] v  知道,懂得
+96   think [θiŋk] v  想,认为
+97   Mr=mister ['mistə] n 先生(用于姓名前)
+98   very ['veri] adv 很,非常
+99   picture ['piktʃə] n 图画,照片
+100  Mrs ['mɪsɪz] n 夫人
+101  boy [bɔi] n 男孩
+102  girl [gə:l] n 女孩
+103  woman ['wumən] n 妇女,女人
+104  man [mæn] n 男人,人
+105  cat [kæt] n 猫
+106  his [hiz] pron 他的
+107  teacher ['ti:tʃə] n 教师
+108  her [hə:] pron 她的
+109  everyone ['evriwʌn] pron 每人,人人
+110  here [hiə] adv 这里,这儿
+111  today [tə'dei] adv & n 今天
+112  at [æt] prep  在
+113  school [sku:l] n 学校
+114  at school   phr. 在学校
+115  sorry ['sɔri] adj 对不起,抱歉的
+116  where [hwɛə] adv 在哪里
+117  home [həum] n 家
+118  at home   phr. 在家
+119  How are you？   你(身体)好吗?
+120  fine [fain] adj (身体)好的
+121  thanks [θæŋks] n 谢谢(只用复数)
+122  OK  adv (口语)好,对,不错,可以
+123  thank [θæŋk] v  谢谢
+124  goodbye [,gud'bai] int 再见,再会
+125  bye [bai] int 再见
+126  parrot ['pærət] n 鹦鹉
+127  sister ['sistə] n 姐,妹
+128  father ['fɑ:ðə] n 父亲
+129  mother ['mʌðə] n 母亲
+130  box [bɔks] n 盒子,箱子
+131  excuse [iks'kju:z] v  原谅
+132  me [mi:] pron 我
+133  Here you are    给你
+134  but [bʌt] conj 但是
+135  these [ði:z] pron 这些
+136  they [ðei] pron 他(她,它)们
+137  good [gud] adj 好的
+138  those [ðəuz] pron 那些
+139  boat [bəut] n 船
+140  hill [hil] n 小山
+141  tree [tri:] n 树
+142  their [ðɛə] pron 他们(她们,它们)的
+143  much [mʌtʃ] adv 多,很,非常
+144  very much   phr. 很,非常
+145  all [ɔ:l] adv 都,完全
+146  right [rait] adv & adj 对的,正确的
+147  all right   phr. 好,行,不错
+148  mum [mʌm] n (口语)妈妈
+149  friend [frend] n 朋友
+150  brother ['brʌðə] n 兄,弟
+151  nice [nais] adj 令人愉快的
+152  to [tu:] prep  (表示方向)到,向 动词不定式符号
+153  meet [mi:t] v  见面,会面,遇见
+154  child [tʃaild] n 小孩
+155  children ['tʃildrən] n child的复数形式
+156  welcome ['welkəm] v  欢迎
+157  our ['auə] pron 我们的
+158  come [kʌm] v  来
+159  come in   phr. 进来,进入
+160  morning ['mɔ:niŋ] n 早晨,上午
+161  class [klɑ:s] n 同一个班的学生
+162  on [ɔn] prep  在,在...上
+163  duty ['dju:ti] n 职责,责任
+164  on duty   phr. 值日
+165  we [wi:] pron 我们
+166  aren't [ɑ:nt] are not 的缩写形式
+167  have [hæv] v  有
+168  new [nju:] adj 新的
+169  student ['stju:dənt] n 学生
+170  twin [twin] n 双胞胎之一
+171  look [luk] v  看上去,显得
+172  the [ðə] art  这(那)个,这(那)些
+173  same [seim] adj 同样的,同一的
+174  look the same   phr. 看起来很像
+175  America [ə'merikən]n & adj美国人(的)
+176  sit [sit] v  坐
+177  down [daun] adv 向下
+178  sit down   phr. 坐下
+179  over ['əuvə] adv 在那边,在另一边
+180  there [ðɛə] adv 那里,那儿
+181  over there   phr. 在那边
+182  after ['ɑ:ftə] prep 在...以后,在...后面
+183  look after   phr. 照顾,照看
+184  Miss [mis]n女士,小姐(对未婚妇女的称呼)
+185  way [wei] n 路,道路
+186  This way,please.   请走这边
+187  put [put] v  放
+188  coat [kəut] n 外套,上衣
+189  them [ðem] pron 他(她,它)们
+190  washroom ['wɔʃrum] n 盥洗室,厕所
+191  let [let] v  让
+192  us [ʌs] pron 我们
+193  let's [lets] let us 的缩写形式
+194  go [gəu] v  去
+195  Let's go    我们一起去
+196  classmate ['klɑ:smeit] n 同班同学
+197  nice [nais] adj 好的,漂亮的
+198  love [lʌv] v  爱,喜爱
+199  No ['nʌmbə] n number 的缩写形式
+200  middle ['midl] adj 中间的,中级的
+201  middle school   n 中学
+202  well [wel] int 喔,那么,好吧
+203  fax [fæks] n 传真
+204  phone [fəun] n 电话,电话机
+205  ID  n 身份征
+206  policeman [pə'li:smən] n 警察
+207  ask [ɑ:sk] v  问
+208  sir [sə:] n (用于尊称)先生,阁下
+209  yes [jes]adv(用于疑问,征询等)什么,是吗
+210  licence ['laisəns] n 执照,许可证
+211  look at   phr. 看,观看
+212  dear [diə] int (表示惊讶等)哎呀
+213  see [si:] v  看见,看到
+214  I'll [ail] I will 的缩写形式
+215  will [wil] v.aux 将,会,要
+216  take [teik] v  拿到,带到
+217  address [ə'dres] n 地址
+218  age [eidʒ] n 年龄
+219  glad [glæd] adj 高兴的,乐意的
+220  why[hwai]int(表示惊讶,不耐烦,恼怒等) 嗨
+221  forgot[fə'gɔt] v  (forget 的过去时)忘记
+222  now [nau] adv 现在
+223  China ['tʃainə] n 中国
+224  or [ɔ:] conj 或者,还是
+225  work [wə:k] v & n 工作
+226  goes [gəuz] go的单数第三人称现在时
+227  family ['fæmili] n 家,家庭
+228  family tree   n 家谱
+229  grandmother ['grænd,mʌðə] n (外)祖母
+230  grandma['grændmɑ:]n (口语)奶奶,外婆
+231  grandfather ['grænd,fɑ:ðə] n (外)祖父
+232  grandpa ['grændpɑ:] n (口语)爷爷,外公
+233  dad [dæd] n (口语)爸爸,爹爹
+234  wife [waif] n 妻子
+235  husband ['hʌzbənd] n 丈夫
+236  daughter ['dɔ:tə] n 女儿
+237  son [sʌn] n 儿子
+238  parent ['pɛərənt] n 父(母)亲
+239  parents  ['pɛərənts]  n 父母亲,双亲
+240  big [big] adj 大的
+241  England ['iŋglənd] n 英格兰
+242  aunt [ɑ:nt] n 姨母,舅母,姑母,伯母,婶母
+243  uncle ['ʌŋkl] n 叔,伯,舅,姨父,姑父
+244  afternoon ['ɑ:ftə'nu:n] n 下午,午后
+245  do [du:] v  做,干,行动
+246  How do you do ?   你好!
+247  seat [si:t] n 座位
+248  have a seat    坐下,就坐
+249  like [laik] prep  像,跟...一样
+250  look like  phr. 看起来像
+251  hat [hæt] n 帽子(一般指有边的帽子)
+252  doctor ['dɔktə] n 医生
+253  worker ['wə:kə] n 工人
+254  guess [ges] v  猜
+255  behind [bi'haind] prep 在...后面
+256  chair[tʃɛə] n  椅子
+257  ball [bɔ:l] n 球
+258  under ['ʌndə] prep  在...下面
+259  floor [flɔ:] n (室内)地,地板
+260  can't [kænt] can not 的缩写形式
+261  photo ['fəutəu] n 照片
+262  wall [wɔ:l] n 墙
+263  shoe [ʃu:] n 鞋
+264  near [niə] prep 在...附近
+265  door [dɔ:] n 门
+266  of [ɔv] prep  ...的
+267  classroom ['klɑ:srum] n 教室
+268  answer ['ɑ:nsə] v  回答
+269  blackboard ['blækbɔ:d] n 黑板
+270  some [sʌm] pron 一些,若干
+271  schoolbag ['sku:l,bæg] n 书包
+272  flower ['flauə] n 花
+273  find [faind] v  找到,发现
+274  broom [bru:m] n 扫帚
+275  window ['windəu] n 窗
+276  raincoat ['reinkəut] n 雨衣
+277  cap [kæp] n 便帽,军帽
+278  football ['futbɔ:l] n 足球
+279  table ['teibl] n 桌子
+280  Hong Kong [ 'hɔŋ'kɔŋ ]n 香港
+281  Macao [mə'kau] n 澳门
+282  SAR  n 特别行政区
+283  there [ðɛə]表示存在,有..,作引导词
+284  there's [ðɛəz] there is 的缩写形式
+285  lock [lɔk] v& n 锁
+286  many ['meni] adj 许多的,多的
+287  thing [θiŋ] n 东西,事情
+288  must [mʌst] v.aux 必须,应当
+289  open ['əupən] v  打开
+290  get [get] v  得到,获得
+291  help [help] v  帮助
+292  purse [pə:s] n 钱包
+293  money ['mʌni] n 钱,货币
+294  worry ['wʌri] v  (使)担忧
+295  Let me see    让我想想
+296  fifty ['fifti] num 五十
+297  colour ['kʌlə] n 颜色
+298  black [blæk] adj 黑色的
+299  house [haus] n 房子
+300  small [smɔ:l] adj 小的
+301  playhouse ['pleihaus] n 儿童游戏房
+302  like [laik] v  喜欢
+303  play [plei] v  玩,打(球)
+304  up [ʌp] adv 在上面,在高处,向上,起来
+305  with [wið] prep  和
+306  great [greit] adv (口语)好极了,很好
+307  look [luk] n 瞧,看
+308  have a look   phr. 看一看
+309  ping-pong [' piŋpɔŋ] n 乒乓球
+310  how many   phr. 多少
+311  kite [kait] n 风筝
+312  young [jʌŋ] adj 年轻的,幼小的
+313  pioneer [,paiə'niə] n 先锋
+314  Young Pioneer   n 少先队员
+315  men [men] n   man的缩写形式
+316  women ['wimin] n   woman的复数形式
+317  only ['əunli] adv 仅仅,只
+318  work [wə:k] n 工作
+319  at work   phr. 在工作
+320  sky [skai] n 天空
+321  count [kaunt] v  数,点数
+322  river ['rivə] n 江,河
+323  dog [dɔg] n 狗
+324  light [lait] n 灯
+325  any ['eni]adj(用于否定句,疑问句等)什么,任何
+326  animal ['æniməl] n 动物
+327  people ['pi:pl] n 人,人们
+328  little ['litl] adj & adv 小的,一点儿,稍许
+329  sheep [ʃi:p] n 绵羊
+330  come on ['kʌm ɔn]phr. 来吧,跟着来,赶快
+331  red [red] adj & n 红色(的)
+332  colour ['kʌlə] n颜色；v 给...着色
+333  yellow ['jeləu] adj & n 黄色(的)
+334  blue [blu:] adj & n 蓝色(的)
+335  white [hwait] adj & n 白色(的)
+336  green [gri:n] adj & n 绿色(的)
+337  purple ['pə:pl] adj & n 紫色(的)
+338  brown [braun] adj&n棕色(的),褐色(的)
+339  orange ['ɔ:rindʒ] adj & n 橙色(的)
+340  grey [grei] adj & n 灰色(的),灰白(的)
+341  sweater ['swetə] n 毛衣,厚运动衫
+342  light [lait] adj 淡(浅)色的,轻的
+343  want [wɔnt] v  要,想要
+344  which [hwitʃ] pron & adj 哪一个,哪些
+345  one [wʌn] pron 用来代替单数的人或物
+346  clothes [kləuðz] n 衣服
+347  line [lain] n 线,绳索
+348  whose [hu:z] pron 谁的
+349  blouse [blauz] n 女衬衫
+350  dress [dres] n 女服,(统称)衣服
+351  shirt [ʃə:t] n (男式)衬衫
+352  trousers ['trauzəz] n 裤子
+353  skirt [skə:t] n 女裙
+354  dark [dɑ:k] adj 深(浓)色的,黑暗的
+355  yours [juəz] pron 你的,你们的
+356  mine [main] pron 我的
+357  hers [hə:z] pron 她的
+358  put on  phr.穿上(衣服等),戴上(帽子等)
+359  theirs [ðɛəz] pron他们(她们,它们)的
+360  ours ['auəz] pron 我们的
+361  glove [glʌv] n 手套
+362  about [ə'baut] prep  关于,对于
+363  What about...?  phr. (询问消息,征求意 见)…怎么样?
+364  beside [bi'said] prep 在...旁边
+365  watch [wɔtʃ] n & v  手表、观看,注视
+366  give [giv] v  给
+367  time [taim] n 时间
+368  about [ə'baut] adv 大约
+369  thirty ['θə:ti] num 三十
+370  get up ['get ʌp] phr. 起床
+371  late [leit] adj & adv 迟的(地),晚的(地)
+372  o'clock [ə'klɔk]  …点钟
+373  midnight ['midnait] n 午夜
+374  noon [nu:n] n 中午,正午
+375  past [pɑ:st] prep  (超)过,经过
+376  half [hɑ:f] n 半,一半
+377  quarter ['kwɔ:tə] n 一刻钟,四分之一
+378  for [fɔ:] prep  为,给
+379  break [breik] n (课间)休息,中断
+380  lunch [lʌntʃ] n 午餐
+381  breakfast ['brekfəst] n 早餐
+382  clean [kli:n] v  把...弄干净,擦干净
+383  supper ['sʌpə] n 晚餐
+384  have supper   phr. 吃晚餐
+385  TV   n 电视,电视机
+386  watch TV  phr. 看电视
+387  game [geim] n 游戏,运动
+388  go home   phr. 回家
+389  p.m.   下午,午后
+390  London ['lʌndən] n 伦敦
+391  Tokyo ['təukiəu] n 东京
+392  Sydney ['sidni] n 悉尼
+393  hour [auə] n 小时
+394  a.m.   午前,上午
+395  hundred ['hʌndrəd] num 百
+396  yourself [juə'self] pron 你自己
+397  bedroom ['bedrum] n 卧室
+398  doll [dɔl] n 玩具娃娃
+399  else [els] adv & adj 别(的),其他(的)
+400  sure [ʃuə]adv&adj的确,一定 确信的,肯定的
+401  between [bi'twi:n] prep在(两者)之间
+402  tall [tɔ:l] adj 高的
+403  funny ['fʌni] adj 滑稽的,有趣的
+404  favourite ['feivərit] adj 特别喜爱的
+405  e-mail [i:'meil] n 电子邮件
+406  speak [spi:k] v  讲,说
+407  next ['nekst] adj 下一个
+408  term [tə:m] n 学期
+409  could [kud] v.aux (口语,表示许可或请求)可以,行
+410  minute ['minit] n 分钟,一会儿
+411  Tuesday ['tju:zdi] n 星期二
+412  February ['februəri] n 二月
+413  eighteenth ['ei'ti:nθ] num 第十八
+414  listen ['lisn] v  听
+415  careful ['kɛəfəl] adj 小心的;仔细的
+416  carefully ['kɛəfəli] adv 小心地;仔细地
+417  draw [drɔ:] v  画;绘制
+418  has [hæz] v(动词have的单数第三人称)有
+419  face [feis] n 脸;面孔
+420  eye [ai] n 眼睛
+421  ear [iə] n 耳朵
+422  leg [leg] n 腿
+423  hand [hænd] n 手
+424  long [lɔŋ] adj 长的
+425  short [ʃɔ:t] adj 短的;矮的
+426  mouth [mauθ] n 嘴
+427  say [sei] v  说;讲
+428  tick [tik] n (钟表等滴嗒的)声音
+429  heavy ['hevi] adj 重的
+430  empty ['empti] adj 空的
+431  certainly ['sə:tənli] adv 当然
+432  full [ful] adj 满的
+433  be full (of)  phr. 充满....的
+434  carry ['kæri] v  携带;搬运;运送
+435  too [tu:] adv 太
+436  so [səu] adv 这么;那么
+437  listen to   phr. 听
+438  tape [teip] n 磁带
+439  there [ðɛə] int 好啦(表示安慰)
+440  all [ɔ:l] adj 整个;所有的
+441  basket ['bɑ:skit] n 篮子
+442  bottle ['bɔtl] n 瓶
+443  a bottle of   phr. 一瓶...
+444  juice [dʒu:s] n (水果;蔬菜;肉等的)汁;水汁
+445  head [hed] n 头;头部
+446  nose [nəuz] n 鼻子
+447  hair [hɛə] n 头发
+448  arm [ɑ:m] n 手臂;胳膊
+449  foot [fut] n 脚(pl.feet)
+450  wardrobe ['wɔ:drəub] n 衣柜
+451  day [dei] n 日;天
+452  from [frɔm] prep  从.....起
+453  America [ə'merikən] n 美国
+454  zoo [zu:] n 动物园
+455  away [ə'wei] adv 离开
+456  put away  phr. 把.....什么收起来(放好)
+457  out [aut] adv 在外
+458  come out   phr. 出来
+459  sock [sɔk] n 短袜
+460  other ['ʌðə] adj 别的;其他的
+461  wrong [rɔ:ŋ] adj 不正确的;错误的
+462  broken ['brəukən] adj 弄坏了的
+463  so [səu] pron 这样;如此
+464  catch [kætʃ] v  捉;抓住
+465  get down   phr. 下来;落下
+466  him [him] pron 他(宾格)
+467  right [rait] adv 正好;恰好;正确
+468  goodness ['gudnis] n 善良;美德
+469  plane [plein] n 飞机
+470  with [wið] prep  对....;关于
+471  mend [mend] v  修补;修理
+472  knife [naif] n (pl.knives) 小刀
+473  robot ['rəubɔt] n 机器人
+474  body ['bɔdi] n 身体
+475  broke [brəuk]v(动词break[breik]的过去时)折断;打破
+476  lost [lɔst] adj 丢失的;丢去的
+477  tell [tel] v  告诉;讲述
+478  round [raund] adj 球形的 ;圆的
+479  mummy ['mʌmi] n (口语)妈妈
+480  pleasure ['pleʒə] n 愉快;高兴
+481  food [fu:d] n 食物
+482  drink [driŋk] n & v  饮料   喝
+483  hungry ['hʌŋgri] adj 饥饿的
+484  thirsty ['θə:sti] adj 口渴的
+485  water ['wɔ:tə] n & v  水;浇水
+486  eat [i:t] v  吃
+487  rice [rais] n 米饭;大米
+488  bread [bred] n 面包
+489  meat [mi:t] n 肉
+490  tea [ti:] n 茶
+491  milk [milk] n 牛奶
+492  glass [glɑ:s] n 玻璃杯
+493  a glass of   phr. 一(玻璃)杯
+494  would like  phr.想要(语气婉转地表示请求等)
+495  something ['sʌmθiŋ]pro某事(物)某东西
+496  porridge ['pɔridʒ] n 粥;稀饭
+497  fish [fiʃ] n 鱼
+498  dumpling ['dʌmpliŋ] n 饺子
+499  fruit [fru:t] n 水果
+500  piece [pi:s] n 一张(片;张)
+501  a piece of   phr. 一片(一张、块)
+502  hamburger ['hæmbə:gə] n 汉堡包
+503  noodle ['nu:dl] n 面条
+504  potato [pə'teitəu] n pl.potatoes 马铃薯;土豆
+505  chips [tʃip] n (口语)炸士豆儿条
+506  coke [kəuk] n (口语)可口可乐
+507  coffee ['kɔfi] n 咖啡
+508  madam ['mædəm] n 夫人;女士
+509  dear [diə] adj 亲爱的;可爱的
+510  ice [ais] n 冰
+511  cream [kri:m] n 奶油;乳脂
+512  ice cream   n 冰淇淋
+513  USA   n 美国
+514  different ['difərənt] adj 不同的
+515  vegetable ['vedʒitəbl] n 蔬菜
+516  sometimes ['sʌmtaimz] adv 有时
+517  sport [spɔ:t] n 运动
+518  come on   phr. 来;过来
+519  ouch [autʃ] int (突然感到病痛时发出的声音)啊呀
+520  be good at   phr. 在...方面(学得,做得)好; 善于
+521  basketball  ['bæskitbɔ:l] n 蓝球
+522  easy ['i:zi] adj 容易的
+523  pass [pɑ:s] v  传递
+524  try [trai] v  试(做);设法;努力
+525  yo-yo ['jəujəu] n 溜溜球 (一种玩具)
+526  go [gəu] n 尝试(做某事)
+527  throw [θrəu] v  投,掷
+528  hard [hɑ:d] adj 困难的
+529  ride [raid] v  骑(自行车,马等)
+530  swim [swim] v  游泳
+531  skate [skeit] v  滑冰,溜冰
+532  fly [flai] v  放(风筝,飞机模型等)
+533  card [kɑ:d] n 纸牌,卡片
+534  volleyball ['vɔli,bɔ:l] n 排球
+535  jump [dʒʌmp] v  跳
+536  sing [siŋ] v  唱,唱歌
+537  run [rʌn] v  跑
+538  high [hai] adj & adv 高的(地)
+539  then [ðen] adv 那么,然后
+540  question ['kwestʃən] n 问题
+541  postal ['pəustəl] adj 邮政的
+542  code [kəud] n 密码,符号
+543  ski [ski:] v  滑雪
+544  tennis ['tenis] n 网球(运动)
+545  table tennis   n 乒乓球
+546  roller-skating ['rəuləskeitiŋ] n 滑旱冰
+547  chess [tʃes] n 国际象棋
+548  fan [fæn] n (口语，电影,运动等的)迷
+549  player ['pleiə] n 比赛者,选手
+550  team [ti:m] n 队,组
+551  every ['evri] adj 每一,每个的
+552  Friday ['fraidi] n 星期五
+553  make [meik] v  做,制作
+554  make the bed   phr. 整理床铺
+555  homework ['həumwə:k] n 家庭作业
+556  do homework   phr. 做作业
+557  read [ri:d] n 读,阅读
+558  write [rait] v  写
+559  sleep [sli:p] v  睡,睡觉
+560  look for ['luk fər] phr. 寻找
+561  cook [kuk] v & n 烹调,煮,烧 炊事员,厨师
+562  talk [tɔ:k] v  说话,谈话
+563  talk with ['tɔ:k wið]phr. 和....交谈
+564  open ['əupən] n 打开
+565  close [kləuz] v  关;闭
+566  take photos   phr. 照象
+567  wear [wɛə] v  穿
+568  Sunday ['sʌndi] n 星期日
+569  park [pɑ:k] n 公园
+570  toy [tɔi] n 玩具;玩物
+571  lake [leik] n 湖
+572  clear [kliə] adj清晰的;清楚的;明亮的
+573  shop [ʃɔp] n 商店
+574  closed [kləuzd] adj 关着的
+575  day [dei] n 日,一天
+576  Friday ['fraidi] n 星期五
+577  early ['ə:li] adj & adv  早的(地)初期
+578  supermarket ['sju:pə,mɑ:kit] n 超级市场
+579  Wednesday ['wenzdi] n 星期三
+580  may [mei] v.aux 可以;可能;也许
+581  borrow ['bɔrəu] v  借
+582  from [frɔm] prep  从;从....起
+583  Thursday ['θə:zdi] n 星期四
+584  week [wi:k] n 周;星期
+585  Monday ['mʌndei] n 星期一
+586  Saturday ['sætədi] n 星期六
+587  Sunday ['sʌndi] n 星期日
+588  hey[hei]int嘿;喂(唤起注意.表示惊讶或询问)
+589  dictionary ['dikʃəneri] n 字典;词典
+590  back [bæk] adv 回(原处) ;向后
+591  tomorrow [tə'mɔ:rəu]n&adv 明天;在明天
+592  CD  n 激光唱片(缩写词)
+593  lot [lɔt] n 许多
+594  a lot   phr. 非常
+595  give...a hand   phr. 给予.....帮助
+596  evening ['i:vniŋ] n 傍晚;晚上
+597  from…to…   phr.  …从…到…
+598  after class   phr. 课后
+599  help...with   phr. 帮助(某人)做(某事)
+600  model ['mɔdl] n 模型;模范 ;样式
+601  park [pɑ:k] n 公园
+602  rest [rest] n 休息
+603  have a (good) rest   phr. 休息
+604  maths [mæθs] n (英式拼法)数学
+605  math [mæθ] n (美式拼法)数学
+606  all [ɔ:l] adv 全体;全部
+607  hard [hɑ:d] adv 努力
+608  fun [fʌn] adj 有趣的;愉快的
+609  yeah [jɛə] adv (口语)是的;嗯
+610  take [teik] v  花费(时间)
+611  straight [streit] adj 直的
+612  use [ju:z] v  用;使用;应用
+613  wheel [hwi:l] n 轮;机轮
+614  into ['intu:] prep  到.....里;向内
+615  music ['mju:zik] n 音乐;乐曲
+616  boat [bəut] v  划船
+617  lake [leik] n 湖
+618  into ['intu:] prep  到...里,向内
+619  worried ['wʌrid] adj 担心的,烦恼的
+620  save [seiv] v  救,挽救,节省
+621  ticket ['tikit] n 票,券
+622  New York ['nju:leid] n 纽约
+623  learn [lə:n] v  学,学习
+624  learn...from  phr. 向...学习
+625  meeting ['mi:tiŋ] n 会,会议
+626  bring [briŋ] v  带来,拿来
+627  foreign ['fɔrin] adj 外国的
+628  difference ['difərəns] n 不同,差异
+629  each [i:tʃ] adv & pron 各自,各个
+630  each other   pron 互相
+631  talk about   phr. 谈论,交谈
+632  USA   n 美国
+633  Australia [ɔ:s'treiljə] n 澳大利亚
+634  Canada ['kænədə] n 加拿大
+635  UK  n 联合王国
+636  Japan [dʒə'pæn] n 日本
+637  America [ə'merikə] n 美国
+638  a little   phr. 一点,少量
+639  French [frentʃ] n 法语
+640  great [greit] adj 伟大的,很大的,重要的
+641  the Great Wall  n 长城
+642  hotel [həu'tel] n 旅馆,饭馆
+643  building ['bildiŋ] n 建筑物
+644  follow ['fɔləu] v  跟随
+645  call [kɔ:l] v&n 称呼,叫喊,打电话给 电话,通话
+646  family name   n 姓
+647  first [fə:st] num & adv 第一,首先,最初
+648  postcard ['pəust,kɑ:d] n 明信片
+649  teach [ti:tʃ] v  教,教书
+650  dinner ['dinə] n 正餐,晚餐
+651  soon [su:n] adv 不久,一会儿
+652  stay [stei] v  停留(在某处)
+653  high school   n 中学
+654  Toronto [tə'rɔntəu] n 多伦多(加拿大港市)
+655  schoolboy ['sku:lbɔi] n (中小学的)男学生
+656  country ['kʌntri] n 国家
+657  make friends   phr. 交朋友
+658  France [frɑ:ns] n 法国
+659  textbook ['tekstbuk] n 课本
+660  Englishman ['iŋgliʃmən]n(pl.Englishmen)英国(男)人
+661  Australian [ɔ:s'treiljən]adj 澳大利亚人
+662  Canadian [kə'neidiən] n 加拿大人
+663  city ['siti] n 城市
+664  foreigner ['fɔ:rinə] n 外国人
+665  visit ['vizit] v  访问,参观,拜访
+666  word [wə:d] n 词,单词
+667  well [wel] adv 好
+668  why [hwai] adv 为什么
+669  English-speaking  adj 说英语的
+670  letter ['letə] n 信
+671  hot [hɔt] adj 热的,辣的
+672  hot dog   n 热狗(红肠面包)
+673  not...at all   phr. 一点也不
+674  different ['difərənt] adj 不同的
+675  kind [kaind] n 种,类
+676  a kind of   phr. 一种,一类
+677  every ['evri] adj 每一的,每个的
+678  meal [mi:l] n 一餐,一顿饭
+679  noodle ['nu:dl] n 面条
+680  vegetable ['vedʒitəbl] n 蔬菜
+681  restaurant ['restərɔnt] n 饭馆
+682  often ['ɔ:fən] adv 常常
+683  potato [pə'teitəu] n 马铃薯,土豆
+684  well [wel] adj & adv 好,(身体)健康
+685  why [hwai] adv 为什么
+686  because [bi'kɔ:z] conj 因为
+687  housework ['hauswə:k] n 家务劳动
+688  machine [mə'ʃi:n] n 机器
+689  again [ə'gen] adv 又,再
+690  make phone calls   phr. 打电话
+691  wash [wɔʃ] v  洗,漱洗
+692  dish [diʃ] n 一道菜,盘,碟
+693  electronic [ilek'trɔnik] adj 电子的
+694  mail [meil] n 邮政,邮递
+695  smoke [sməuk] v&n 吸烟,烟
+696  fog [fɔg] n 雾
+697  smog[smɔg]n 烟雾
+698  dance [dɑ:ns] v  跳舞
+699  living room   n 起居室
+700  dining room   n 餐厅
+701  driver ['draivə] n 司机,驾驶员
+702  farmer ['fɑ:mə] n 农民
+703  soldier ['səuldʒə] n 士兵,战士
+704  businessman ['biznismæn] n 商人
+705  assistant [ə'sistənt] n 助手,助理
+706  a shop assistant   phr. 售货员,店员
+707  nurse [nə:s] n 护士
+708  postman ['pəustmən] n 邮递员
+709  factory ['fæktəri] n 工厂
+710  station ['steiʃən] n 车站,所,站
+711  bus station   n 公共汽车站
+712  hospital ['hɔspitl]  n 医院
+713  farm [fɑ:m] n 农场
+714  post [pəust] n 邮政,邮寄,邮件
+715  office ['ɔ:fis] n 办公室
+716  post office   n 邮局
+717  study ['stʌdi] v  学习,研究
+718  party ['pɑ:ti] n 聚会
+719  friendly ['frendli] adj 友好的
+720  also ['ɔ:lsəu] adv 也
+721  medicine ['medisin] n 内服药,医学
+722  in the day   phr. 在白天
+723  at night   phr. 在晚上,在夜里
+724  make money   phr. 赚钱
+725  weekend ['wi:k'end] n 周末
+726  job [dʒɔb] n 工作
+727  writer ['raitə] n 作家,作者
+728  cleaner ['kli:nə] n 清洁工
+729  turn [tə:n] n (依次轮流的)顺序,轮流
+730  grow [grəu] v  种植,生长
+731  baker ['beikə] n 面包师
+732  artist ['ɑ:tist] n 画家,艺术家
+733  hobby ['hɔbi] n 业余爱好
+734  be [bi:] v  (am,is,are)是,成为
+735  place [pleis] n 地点,地方
+736  weekday ['wi:kdei] n 工作日,平日(除星期六,日以外)
+737  when [hwen] adv 什么时候,何时
+738  leave [li:v] v  离去,出发
+739  begin [bi'gin] v  开始,着手
+740  have sports   phr. 进行体育活动
+741  go to bed   phr. 睡觉
+742  usually ['ju:ʒuəli] adv 通常
+743  right now   phr. 立刻,马上
+744  sometimes ['sʌmtaimz] adv 有时
+745  take off   phr. 脱衣服
+746  after school   phr. 放学后,下课后
+747  get to   phr. 到达
+748  exercise ['eksəsaiz]n锻炼,做操,练习
+749  do morning exercises   phr. 做早操
+750  shopping ['ʃɔpiŋ] n 买东西
+751  go shopping   phr. (去)买东西
+752  garden ['gɑ:dn] n 花(果,菜)园
+753  be [bi:] v  (am,is,are)是,成为
+754  over ['əuvə] adv 结束,完了
+755  do (some) reading   phr. 朗读,阅读
+756  living-room  n 起居室
+757  playground ['pleigraund]n(学校的)操场
+758  walk [wɔ:k] v  走,步行,散步
+759  news [nju:z] n 新闻,消息
+760  match [mætʃ] n 比赛,竞赛
+761  quickly ['kwikli] adv 迅速
+762  sun [sʌn] n 太阳
+763  moon [mu:n] n 月亮
+764  bridge [bridʒ] n 桥
+765  train [trein] n 火车
+766  ship [ʃip] n 船,轮船
+767  on foot   phr. 走路,步行
+768  holiday ['hɔlədi] n 假日,假期
+769  year [jiə] n 年
+770  by [bai] prep  乘车(船等)
+771  by plane   phr. 乘飞机
+772  by ship   phr. 乘船
+773  air [ɛə] n 天空,空气
+774  by air   phr. 乘飞机
+775  sea [si:] n 海,海洋
+776  by sea   phr. 乘船
+777  take time   phr. 花费(时间)
+778  how long   phr. 多久
+779  walk [wɔ:k] v  走,步行,散步
+780  clean [kli:n] adj 干净的,清洁的
+781  story ['stɔ:ri] n 故事
+782  far [fɑ:] adj & adv 远
+783  problem ['prɔbləm] n 问题,难题
+784  earlier ['ə:liə] adj & adv ( early的比较级)更早的(地)
+785  ill [il] adj 病的,不健康的
+786  tear [tɛə] n (常用复数)眼泪,泪珠
+787  chicken ['tʃikin] n 鸡,鸡肉
+788  tofu ['təufu:] n 豆腐
+789  fridge [fridʒ] n 电冰箱
+790  list [list] n 清单,一览表,名单,目录
+791  shopping list   phr. 购物清单
+792  buy [bai] v  买
+793  kilo ['ki:ləu] n 千克,公斤
+794  sell [sel] v  卖,售
+795  how much   phr. 多少,多少钱
+796  cheap [tʃi:p] adj 便宜的
+797  expensive [iks'pensiv] adj 昂贵的
+798  tomato[tə'meitəu]n(pl.tomatoes)西红柿,蕃茄
+799  onion ['ʌnjən] n 洋葱
+800  carrot ['kærət] n 胡萝卜
+801  pork [pɔ:k] n 猪肉
+802  all day   phr. 一整天,一天到晚
+803  a lot of   phr. 许多,很多
+804  open ['əupən] adj 开着的
+805  market ['mɑ:kit] n 市场,集市
+806  dollar['dɔlə]n元(美,加拿大等国的货币单位)
+807  cent [sent] n (货币)分
+808  pound [paund] n 镑(重量单位)
+809  health [helθ] n 健康,卫生
+810  fast [fɑ:st] adj & adv 快的(地),迅速的(地)
+811  of course   phr. 当然,自然的事
+812  travel ['trævl] v & n 旅行
+813  safe [seif] adj 安全的,平安的
+814  minibus ['mini,bʌs] n 小型公共汽车
+815  and so on   phr. 等等
+816  price [prais] n 价格,价钱
+817  example [ig'zɑ:mpl] n 例子,榜样
+818  for example  phr. 例如
+819  stand [stænd] v  站,立
+820  field [fi:ld] n 地,田地
+821  one day phr.(过去或将来)有一天,某一天
+822  job [dʒɔb] n 工作
+823  bright [brait] adj 明亮的,灿烂的
+824  foreign ['fɔrin] adj 外国的
+825  sunglasses ['sʌnglɑ:siz] n 太阳镜
+826  each [i:tʃ] pron 各自,各个
+827  language ['læŋgwidʒ] n 语言
+828  helpful ['helpfəl] adj 有帮助的,有益的
+829  get on (a bus)  phr. 上车
+830  business ['biznis] n 商业,生意,事物
+831  company ['kʌmpəni] n 公司
+832  manager ['mænidʒə] n 经理,负责人
+833  century ['sentʃuri] n 世纪,百年
+
+第二册  834----1644
+834  lesson ['lesn] n 课,功课
+835  fun [fʌn] n 有趣
+836  when [hwen] conj 当......时
+837  traffic ['træfik] n 交通
+838  bad [bæd] adj 坏的
+839  matter ['mætə]v(否定句,疑问句)要紧,有关系
+840  on time   phr. 准时
+841  September [sep'tembə] n 九月
+842  happy ['hæpi] adj 快乐的,幸福的
+843  best [best] adj &adv 最好的(地)
+844  wish [wiʃ] n &v  祝愿,希望,想要
+845  second ['sekənd] num &adj 第二(的)
+846  idea [ai'diə] n 主意,想法,意见
+847  last [lɑ:st] adj 最后的,刚过去的
+848  given name   phr. 名字
+849  mean [mi:n] v  表示...的意思,意味着
+850  meaning ['mi:niŋ] n 意思,意义,含义
+851  important [im'pɔ:tənt] adj重要的,重大的
+852  use [ju:z] v  用,使用,运用
+853  Ms [mɪz]n女士(用于婚姻状况不明的女名)
+854  before [bi'fɔ:] prep &adv 在..之前,以前
+855  never ['nevə] adv 从来,决不
+856  just [dʒʌst] adv 刚刚,方才
+857  third [θə:d] num &adj 第三的
+858  afraid [ə'freid] adj 害怕的
+859  live [liv] v  居住
+860  sound [saund] n & v  声音,听起来
+861  have to   phr. 不得不,必须
+862  time [taim] n 次数
+863  more [mɔ:] adv 更,更加
+864  not...any more   phr. 不再
+865  laugh [lɑ:f] v  & n 笑,大笑,笑声
+866  waste [weist] n & v  浪费,废弃物
+867  a waste of time  phr. 浪费(白费)时间
+868  fifth [fifθ] num & adj 第五(的)
+869  trip [trip] n & v  旅游,旅行
+870  field trip   phr. 野外旅游
+871  hometown ['hom'taun] n 故乡,家乡
+872  discuss [di'skʌs] v  讨论,议论
+873  fish [fiʃ] v  钓鱼
+874  fishing ['fiʃiŋ] n 钓鱼
+875  go fishing   phr. 去钓鱼
+876  east [i:st] n & adj 东方(的),东部(的)
+877  agree [ə'gri:] v  同意,赞成
+878  boating ['bəutiŋ] n 划船
+879  go boating   phr. 去划船
+880  maybe ['meibi] adv 也许,大概
+881  mountain ['mauntin] n 山,高山
+882  hike [haik] n & v  远足,徒步旅行
+883  hiking [haikin] n 徒步旅行
+884  go hiking   phr. 去徒步旅行
+885  picnic ['piknik] n 野餐
+886  the day after tomorrow  phr. 后天
+887  top [tɔp] n 顶部
+888  problem ['prɔbləm] n 问题,难题
+889  quick [kwik] adj 快的,迅速的
+890  quickly ['kwikli] adv 快地,迅速地
+891  start [stɑ:t] v  开始,着手
+892  trip [trip] over   phr. (被...)绊倒
+893  tired ['taiəd] adj 累,疲乏
+894  hurry ['hʌri] v  赶快,慌忙
+895  hurry up   phr. 赶快
+896  tie [tai] v  捆,(系,栓)紧
+897  die [dai] v  死亡
+898  city ['siti] n 城市
+899  take [teik] v  花费(时间),消耗
+900  eighth [eitθ] num 第八
+901  salesgirl ['seilzgə:l] n 女售货员
+902  far [fɑ:] adj & adv 远的(地)
+903  beautiful ['bju:təfəl] adj 美丽的,漂亮的
+904  together [tə'geðə] adv 一起
+905  autumn ['ɔ:təm] n 秋天,秋季
+906  festival ['festəvəl] n & adj 节日(的),喜庆(的)
+907  ninth [nainθ] num &adj 第九(的)
+908  free [fri:] adj 自由的,空闲的
+909  mid-autumn  n 中秋
+910  mooncake  n 月饼
+911  nut [nʌt] n 坚果,坚果核
+912  sweet [swi:t] adj 甜的,可爱的
+913  inside [,in'said]  prep  在...里面
+914  store ['in'said] n (美)商店,大百货公司
+915  come over   phr. 过来,顺便来访
+916  thanksgiving [,θæŋks'giviŋ] n 感谢,感恩
+917  Thanksgiving=Thanksgiving Day  phr. 感恩节
+918  get together  phr. 相聚
+919  October [ɔk'təubə] n. 十月
+920  taste [teist] v  品尝,有...味道
+921  pie [pai] n (用肉或水果做成的)馅饼
+922  outside ['aut'said] prep  & adv 在...外
+923  in the open air   phr.在户外,在野外
+924  harvest ['hɑ:vist] n 收获
+925  than [ðæn] conj 比....,比较....
+926  another[ə'nʌðə]adj&conj另一个(的),又一个(的)
+927  delicious [di'liʃəs] adj 美味的,可口的
+928  better['betə]adj(goo或well的比较级)更好的
+929  pumpkin ['pʌmpkin] n 南瓜
+930  twelfth [twelfθ] num &adj 第十二(的)
+931  turkey ['tə:ki] n 火鸡
+932  celebrate ['selibreit] v  庆祝
+933  wait [weit] v 等,等待
+934  feed [fi:d] v 喂,饲养
+935  cow [kau] n 母牛,乳牛
+936  interesting ['intəristiŋ]adj有趣的,有意思的
+937  tractor ['træktə] n 拖拉机
+938  taxi ['tæksi] n 出租汽车
+939  slow [sləu] adj 慢的,缓慢的
+940  slowly ['sləuli] adv 缓慢地
+941  grow [grəu] v  种植,生长
+942  wheat [hwi:t] n 小麦
+943  country ['kʌntri] n 乡村,郊外
+944  hear [hiə] v  听见,听说
+945  bleat [bli:t] v & n 羊叫(声)
+946  agree with phr.同意...意见(想法)符合,一致
+947  corn [kɔ:n] n (美)玉米,谷类庄稼
+948  most[məust]adj&adv(many或much的最高级)最多的
+949  summer ['sʌmə] n 夏天,夏季
+950  winter ['wintə] n 冬天,冬季
+951  stop [stɔp] v  停止,中止
+952  pick [pik] v  采摘(花,果实)
+953  exciting [ik'saitiŋ] adj 令人兴奋的
+954  town [taun] n 城镇
+955  star [stɑ:] n 星星,恒星
+956  until [ən'til] prep&pron 到...为止
+957  till [til] prep&pron (直)到...为止
+958  college ['kɔlidʒ] n 学院,高等专科学校
+959  farming ['fɑ:miŋ] n 农业,务农
+960  somebody ['sʌmbədi] pron 某人,有人
+961  nobody ['nəubɔdi] pron 没有人
+962  shall [ʃæl] v   (我,我们)将,会
+963  zoo [zu:] n 动物园
+964  nothing ['nʌθiŋ] pron没有什么,没有东西
+965  dolphin ['dɔlfin] n 海豚
+966  show [ʃəu] n&v演出,展览 给...看,出示
+967  gate [geit] n 大门
+968  land [lænd] n 陆地,土地
+969  just [dʒʌst] adv 仅仅,只有
+970  grass [grɑ:s] n 草,草地
+971  dangerous ['deindʒərəs] adj 危险的
+972  panda ['pændə] n 熊猫
+973  lion ['laiən] n 狮子
+974  elephant ['elifənt] n 象
+975  monkey ['mʌŋki] n 猴子
+976  tiger ['taigə] n 老虎
+977  deer [diə] (pl.deer)  n 鹿
+978  snake [sneik] n 蛇
+979  rabbit ['ræbit] n 兔子
+980  duck [dʌk] n 鸭
+981  fox [fɔks] n 狐狸
+982  horse [hɔ:s] n 马
+983  bear [bɛə] n 熊
+984  cage [keidʒ] n 笼(子),鸟笼
+985  should [ʃud]v.aux (shall的过去式)将,会,应该
+986  forest ['fɔrist] n 森林
+987  feel [fi:l] v  觉得,感到
+988  if [if] conj 假如,如果
+989  fall [fɔ:l] v  落下,跌倒
+990  climb [klaim] v  爬,攀登
+991  finish ['finiʃ] v  完成,结束
+992  cinema ['sinimə] n 电影院,电影
+993  seafood ['sifu:d] n 海鲜,海产食品
+994  twentieth ['twentiiθ] num 第十二
+995  baby ['beibi] n 婴儿,幼畜
+996  back [bæk] n 背部,后面
+997  place [pleis] n 地点,地方
+998  twenty-first [,twenti'fə:st]num 第二十一
+999  bank [bæŋk] n 银行
+1000  theatre(theater['θiətə])['θiətə]n剧场,戏院
+1001  bookshop ['bukʃɔp] n 书店
+1002  toilet ['tɔilit] n 厕所
+1003  museum [mju:'ziəm] n 博物馆
+1004  front [frʌnt] adj & n 前面(的),前部
+1005  in front of   phr. 在...前面
+1006  left [left] n & adj 左(的),左边(的)
+1007  right [rait] n & adj 右(的),右边(的)
+1008  side [said] n 边,面
+1009  on the left/right side   phr. 在左(右)边
+1010  all the same   phr. 仍然,还是
+1011  need [ni:d] v 需要,必需
+1012  ask for phr. 请求,询问
+1013  along [ə'lɔŋ] prep沿着,顺着 一起,一道
+1014  road [rəud] n 道路,公路
+1015  turn [tə:n] v  (使)转动,(使)翻动
+1016  turning ['tə:niŋ] n 拐弯处
+1017  metre ['mi:tə] n 公尺,米
+1018  kilometre ['kilə,mi:tə] n 公里,千米
+1019  had better (do)  phr. 最好(做...)
+1020  coin [kɔin] n 硬币
+1021  keep [ki:p] v  保持,留住
+1022  as [æz] conj 按照,如同
+1023  moment ['məumənt] n 片刻,瞬间
+1024  tell [tel] v  告述,讲述,吩咐
+1025  street [stri:t] n 街道
+1026  next to ['nekst tə] phr. 相邻,靠近
+1027  around [ə'raund] prep  在...周围环绕着
+1028  lift [lift] n 电梯
+1029  up and down   phr. 上上下下,来来回回
+1030  busy ['bizi] adj 忙的,繁忙的
+1031  team [ti:m] n 队,组
+1032  centre ['sɛntɚ] (center ['sentə]) n 中心
+1033  popular ['pɔpjulə] adj 大众的,流行的
+1034  soccer ['sɔkə] n 英式足球
+1035  quite [kwait] adv 很,十分
+1036  month [mʌnθ] n 月
+1037  village ['vilidʒ] n 村庄,乡村
+1038  strong [strɔŋ] adj 强壮的,坚强的
+1039  was [wɔz] v   be(am,is,are)的过去式
+1040  yesterday ['jestədi] n & adv 昨天
+1041  November [nəu'vembə] n 十一月
+1042  ill [il] adj 病的
+1043  hope [həup] v  希望
+1044  composition [,kɔmpə'ziʃən]n 作文作品
+1045  remember [ri'membə] v  记起,想起
+1046  were [wə:] v  动词be(are)的过去式
+1047  bit [bit] n 一点儿,小片
+1048  a bit [ə'bit] phr. 一点儿
+1049  healthy ['helθi] adj 健康的,健壮的
+1050  grow up ['grəu ʌp] phr. 成长,长大
+1051  visit ['vizit] v  参观,访问,拜访
+1052  ago [ə'gəu] adv 以前
+1053  the day before yesterday  phr. 前天
+1054  enjoy [in'dʒɔi] v  喜欢,享受...乐趣
+1055  world [wə:ld] n 世界
+1056  at the same time   phr. 同时
+1057  a moment ago   phr. 刚才
+1058  just now   phr. 不久以前,刚才
+1059  reply [ri'plai] n & v  答复,回答
+1060  by the way   phr. 顺便说,顺便问一下
+1061  match [mætʃ] n 比赛,竞赛
+1062  cold [kəuld] adj 冷的,寒冷的
+1063  drive [draiv] v  驾驶
+1064  plan [plæn] n 计划
+1065  diary ['daiəri] n 日记
+1066  make telephone calls   phr. 打电话
+1067  go out   phr. 外出,到外面
+1068  India ['indiə] n 印度
+1069  went [went] v  动词go的过去式
+1070  rain [rein] v  下雨
+1071  rained   v  动词rain的过去式
+1072  memory ['meməri] n 记忆力,存储器
+1073  pack [pæk] v  打包,打行李
+1074  everything ['evriθiŋ] pron 每件事,每样东西,一切
+1075  umbrella [ʌm'brelə] n 伞,雨伞
+1076  dry [drai] adj 干的,干燥的
+1077  newspaper ['nju:z,peipə] n 报纸
+1078  paper ['peipə] n 纸,报纸
+1079  morning paper   n 晨报
+1080  at breakfast   phr. 早餐时
+1081  say goodbye to   phr. 告别,告辞
+1082  useful ['ju:sfəl] adj 有用的,有益的
+1083  scientist ['saiəntist] n 科学家
+1084  invent [in'vent] v  发明,创造
+1085  all the time [,ɔ:l ðə 'taim] phr.一直,始终,老是
+1086  always ['ɔ:lweiz] adv 总是,一直,经常
+1087  everywhere['evrihwɛə]adv到处,无论哪里
+1088  born [bɔ:n]v(动词bear的过去分词)出生
+1089  be born   phr. 出生于
+1090  May [mei] n 五月
+1091  move [mu:v] v  移动,搬动,搬家
+1092  understand [,ʌndə'stænd] v  懂得,理解
+1093  so-so['səusəu]adj(口语)不好不坏的,马马虎虎
+1094  at first  phr. 起先,首先
+1095  most [məust] pron 大部分,大多数
+1096  luck [lʌk] n 运气,好运
+1097  April ['eiprəl] n 四月
+1098  hate [heit] v  讨厌,不喜欢,憎恨
+1099  fly [flai] v  飞,飞行,乘飞机旅行
+1100  painting ['peintiŋ] n 油画,水彩画
+1101  airport ['ɛəpɔ:t] n 航空站,飞机场
+1102  Swedish ['swi:diʃ] adj 瑞典的,瑞典人的
+1103  rock [rɔk] n 摇动,摇滚乐
+1104  band [bænd] n 乐队
+1105  concert ['kɔnsət] n 音乐会,演奏会
+1106  give a concert   phr. 开音乐会
+1107  tonight [tə'nait] adv & n 今晚
+1108  singer ['siŋə] n 歌唱者,歌手
+1109  journalist ['dʒə:nəlist] n记者,新闻工作者
+1110  famous ['feiməs] adj 有名的,著名的
+1111  Sweden ['swi:dən] n 瑞典
+1112  song [sɔŋ] n 歌,歌曲,歌谣
+1113  more than  phr. 多过,...以上,比....更
+1114  thousand ['θauzənd] num 千
+1115  accident ['æksidənt] n 事故,灾难
+1116  careless ['kɛəlis] adj 粗心的,大意的
+1117  fall down   phr. 倒下,跌倒,从...落下
+1118  break [breik] v  折断,断裂,破碎
+1119  go on   phr. 继续
+1120  someone ['sʌmwʌn] pron 某人,有人
+1121  heart [hɑ:t] n 心(脏)
+1122  past [pɑ:st] n & adj 过去(的)
+1123  end [end] n & v  末端,终点,结束
+1124  at the end of   phr. 在...结尾,到...尽头
+1125  happen ['hæpən] v  (偶然)发生,碰巧
+1126  part [pɑ:t] n 部分
+1127  tourist ['tu:rist] n 旅游者,观光者
+1128  go back   phr. 回去
+1129  in a hurry   phr. 匆忙地
+1130  grape [greip] n 葡萄
+1131  science ['saiəns] n (自然)科学
+1132  marry ['mæri] v  结婚
+1133  get married   phr. 结婚
+1134  subject ['sʌbdʒikt] n 题目,题材
+1135  friendship ['frendʃip] n 友谊,友情
+1136  anyone ['eniwʌn] pron 任何人
+1137  date [deit] n 日期
+1138  season ['si:zn] n 季节
+1139  write down   phr. 写下,记下
+1140  January ['dʒænjueri] n 一月
+1141  March [mɑ:tʃ] n 三月
+1142  June [dʒu:n] n 六月
+1143  July [dʒu:'lai] n 七月
+1144  August [ɔ:'gʌst] n 八月
+1145  December [di'sembə] n 十二月
+1146  spring [spriŋ] n 春天
+1147  last [lɑ:st] v  持续,耐久
+1148  weather ['weðə] n 天气
+1149  warm [wɔ:m] adj 暖和的,热情的
+1150  come out['kʌm aut]phr. (花)开,发(芽),出来
+1151  heavily ['hevili] adv大量地,猛烈地,厉害地
+1152  crop [krɔp] n 庄稼,收成
+1153  really ['riəli] adv 确实,真正地
+1154  snow [snəu] n & v  雪,下雪
+1155  snowman ['snəu,mæn] n 雪人
+1156  all the year round   phr. 一年到头
+1157  true [tru:] adj 真的,真实的
+1158  nearly ['niəli] adv 将近,几乎
+1159  unlike ['ʌn'laik] prep  不像,和...不同
+1160  opposite ['ɔpəzit] adj 对面的,相反的
+1161  sunny ['sʌni] adj 晴朗的,阳光充足的
+1162  cloud [klaud] n 云
+1163  cloudy ['klaudi] adj 多云的,阴天的
+1164  wet [wet] adj 湿的
+1165  rainy ['reini] adj 多雨的,下雨的
+1166  wind [waind] n 风
+1167  windy ['windi] adj 有风的,风大的
+1168  snowy [snəui] adj 多雪的,降雪的
+1169  later ['leitə] adv 以后,后来
+1170  later on   phr. 后来,稍后
+1171  ring [riŋ] v  (钟,铃等)响,摇铃
+1172  ring up   phr. 打电话
+1173  west [west] n & adj 西方、西部(的)
+1174  strange [streindʒ] adj 奇怪的,陌生的
+1175  sunshine ['sʌnʃain] n 日光,阳光
+1176  melon ['melən] n 瓜
+1177  radio ['reidiəu] n 收音机
+1178  report [ri'pɔ:t] n & v  报导,报告
+1179  north [nɔ:θ] n & v  北方(的),北部(的)
+1180  south [sauθ] n & v  南方(的),南部(的)
+1181  at times   phr. 有时,偶尔
+1182  northeast ['nɔ:θ'i:st] n 东北,东北部
+1183  temperature ['tempritʃə] n 温度
+1184  above [ə'bʌv] prep  在...上面
+1185  daytime ['deitaim] n 白天
+1186  below [bi'ləu] prep  在...下,低于
+1187  northwest ['nɔ:θ'west] n 西北,西北部
+1188  lift [lift] v  (云,雾等)消散,(雨)停止
+1189  worse [wə:s] adj & adv ( bad,ill的比较级)更坏,更差
+1190  foggy ['fɔgi] adj 有雾,多雾的
+1191  low [ləu] adj 低的,浅,矮的
+1192  birthday ['bə:θdei] n 生日
+1193  invite [in'vait] v 邀请,招待
+1194  film [film] n 影片,电影
+1195  hold [həuld] v  拿,握
+1196  hold on ['həuld ɔn] phr. (打电话时)等一等,不挂断
+1197  message ['mesidʒ] n 消息,信息
+1198  take/leave a message   phr. 捎/留口信
+1199  ready ['redi] adj 准备好的,乐意的
+1200  sandwich ['sændwitʃ] n 三明治,夹心面包片
+1201  plate [pleit] n 盘子,碟子
+1202  candle ['kændl] n 蜡烛
+1203  doorbell ['dɔ:bel] n 门铃
+1204  present ['preznt] n 礼物
+1205  smile [smail] n & v  微笑
+1206  telephone(phone [fəun]) ['telifəun] n 电话,电话机
+1207  double ['dʌbl]n & adj两倍(的),双倍(的)
+1208  but [bʌt] prep  除了
+1209  take out   phr.  取出
+1210  the same as   phr. 和...相同
+1211  word [wə:d] n 词,单词
+1212  shout [ʃaut] v  呼喊,喊叫
+1213  turn over ['tə:n ,əuvə] phr. 把...翻过来
+1214  study ['stʌdi] n 书房
+1215  less [les] adj&adv ( little的比较级)较少的,较小的
+1216  less than   phr. 不到,少于
+1217  be late for   phr. 迟到
+1218  beef [bi:f] n 牛肉
+1219  help yourself to   phr. 自取,随便吃
+1220  Christmas ['krisməs] n 圣诞节
+1221  during ['djuəriŋ] prep  在...的期间
+1222  Spring Festival  n 春节
+1223  exam [ig'zæm] n (口语)考试
+1224  get-together ['gettə,geðə] n 聚会
+1225  put on   phr. (戏剧等)上演,放(唱片等)
+1226  play [plei] n 剧,戏剧
+1227  shower ['ʃauə] n 降雨,骤雨
+1228  showery ['ʃauəri] adj 降雨的,多阵雨的
+1229  magical ['mædʒikəl] adj 魔法(似)的
+1230  Rome [rəum] n 罗马(意大利首都)
+1231  Berlin [bə:'lin] n 柏林
+1232  Moscow ['mɔskəu] n 莫斯科
+1233  kitchen ['kitʃin] n 厨房
+1234  cupboard ['kʌbəd] n 碗橱,小橱(柜)
+1235  few [fju:] adj 少数的,不多的
+1236  a few   phr. 一些,几个
+1237  salt [sɔ:lt] n 盐
+1238  sugar ['ʃugə] n 糖
+1239  pepper ['pepə] n 胡椒
+1240  oil [ɔil] n 油
+1241  wine [wain] n 酒
+1242  beer [biə] n 啤酒
+1243  fork [fɔ:k] n 叉,餐叉
+1244  spoon [spu:n] n 匙,调羹
+1245  chopsticks ['tʃɔpstiks] n (常用复数)筷子
+1246  cabbage ['kæbidʒ] n 卷心菜,洋白菜
+1247  pea [pi:] n 豌豆
+1248  butter ['bʌtə] n 黄油
+1249  cheese [tʃi:z] n 乳酪
+1250  soup [su:p] n 汤
+1251  Italian [i'tæljən] n & adj意大利人(的),意大利语(的)
+1252  pizza ['pi:tsə] n (意大利)烤馅饼
+1253  Indian ['indiən] n & adj 印度人(的),印第安人(的)
+1254  kinds of   phr. 各种各样的
+1255  workplace ['wə:kpleis] n 工作场所
+1256  seem [si:m] v  好像,似乎
+1257  even ['i:vən] adv 甚至,更
+1258  Italy ['itəli] n 意大利
+1259  chocolate ['tʃɔkəlit] n 巧克力,巧克力糖
+1260  ice [ais] n 冰
+1261  make [meik] v  使...(发生)
+1262  laugh [lɑ:f] v  (大)笑,发笑
+1263  both [bəuθ] adj & pron 两个(人....)都
+1264  either ['i:ðə] adv (用于否定句中)也(不)
+1265  either...or... [,i:ðə'ɔ:]conj 或者...或者...
+1266  anything ['eni,θiŋ] pron 任何事(物)
+1267  neither ['ni:ðə,nai:ðə] adj & pron (两者)都不
+1268  nor [nɔ:] conj 也不
+1269  neither...nor..   conj 既不...也不...
+1270  a bit (of)  phr. 少量(的),一点
+1271  without [wi'ðaut] prep  无,没有,不
+1272  take a seat [,teik ə 'si:t] phr. 坐下,就坐
+1273  take-away['teikə'wei]adj&n可拿走的(熟食)
+1274  waiter ['weitə] n 服务员
+1275  madam ['mædəm] n 女士,夫人,小姐
+1276  menu ['menju:] n (餐厅等的)菜单
+1277  order ['ɔ:də] n&v 订购,点菜  订购单,定购,一份菜
+1278  bill [bil] n 帐单,清单,纸币
+1279  be famous for   phr. 因...而有名的
+1280  kind [kaind] adj 和蔼的,友好的
+1281  lady ['leidi] n 女士,夫人
+1282  ladies' room   n (妇女)公共厕所
+1283  tell [tel] v  说,告述,吩咐
+1284  library ['laibrəri] n 图书馆
+1285  cross [krɔ:s] n 十字形(物),十字记号    v穿过,越过
+1286  crossing ['krɔ:siŋ] n 十字路口,交叉点
+1287  across [ə'krɔ:s] prep  穿过,横过
+1288  miss [mis] v  错过
+1289  church [tʃə:tʃ] n 教堂,教会
+1290  cafe [kə'fei] n 小餐馆,咖啡厅
+1291  video ['vidiəu] n 录像
+1292  reach [ri:tʃ] v  到达,抵达,达到
+1293  corner ['kɔ:nə] n 角落,(街道)拐角
+1294  on one's way to   phr. 在..的途中
+1295  sick [sik] adj 患病的
+1296  pocket ['pɔkit] n 衣袋
+1297  still [stil] adv 仍旧,更
+1298  weak [wi:k] adj 弱的,差的
+1299  wait for   phr. 等候
+1300  cut [kʌt] v  割,砍,切
+1301  finger ['fiŋgə] n 手指
+1302  geography [dʒi'ɔgrəfi] n 地理(学)
+1303  physics ['fiziks] n 物理(学)
+1304  history ['histəri] n 历史(学)
+1305  key [ki:] n 钥匙
+1306  fix [fiks] v  修理,安装
+1307  lab[læb](=laboratory[lə'bɔrətəri])n实验室
+1308  suddenly ['sʌdnli] adv 突然地
+1309  DVD  n 光碟,影碟
+1310  in time [in 'taim] phr. 及时
+1311  make one's way to   phr. 往..走去
+1312  sign [sain] n 标记,符号,痕迹
+1313  lost [lɔst] adj 迷途的,丢失的
+1314  be/get lost   phr. 迷失(道路)
+1315  just then   phr. 正在那时
+1316  first of all   phr. 首先,第一
+1317  main [mein] adj 主要的
+1318  go wrong [,gəu 'rɔŋ] phr. 走错路
+1319  hit [hit] v  打,击中,撞
+1320  noise [nɔiz] n 嘈杂声,响声
+1321  make a noise   phr. 吵闹
+1322  disturb [dis'tə:b] v  妨碍,打扰
+1323  passenger ['pæsindʒə] n 乘客,旅客
+1324  get on ['get ɔn] phr. 上(车)
+1325  get off ['get ɔf] phr. 下来,从...下来
+1326  push [puʃ] v  推,挤
+1327  stand in line   phr. 站(在)队(里)
+1328  turn [tə:n] n (依次轮流的)顺序
+1329  necessary['nesə,səri] adj 必需的,必要的
+1330  waiting room  n 等候室,候诊(车,机)室
+1331  queue[kju:]n(按次序等待的人,车等的)队,行列
+1332  jumper ['dʒʌmpə] n 跳跃者
+1333  queue jumper   n 不按次序排队的人
+1334  patient ['peiʃənt] n 病人
+1335  at the head of   phr.在...的最前
+1336  visitor ['vizitə] n 参观者,访问者
+1337  live [liv] v  居住
+1338  knee [ni:] n 膝盖
+1339  hurt [hə:t] v  使受伤,痛
+1340  laugh at ['lɑ:f ət] phr. 嘲笑
+1341  mistake [mi'steik] n 错误
+1342  quiet ['kwaiət] adj 安静的,平静的
+1343  quietly ['kwaiətli] adv 安静地,平静地
+1344  reading room   n 阅览室
+1345  alone [ə'ləun] adv 独自的,单独的
+1346  plastic ['plæstik] n & adj 塑料(的)
+1347  throw about['θrəu ə,baut] phr.乱丢,抛散
+1348  change [tʃeindʒ] v  变化,变更,改变
+1349  have a good time   phr. 过得愉快
+1350  fact [fækt] n 事实,实际
+1351  in fact [in 'fækt] phr. 实际上
+1352  at midnight   phr. 在半夜
+1353  arrive [ə'raiv] v  到达,抵达某地
+1354  telephone ['telifəun] v  打电话给(某人)
+1355  complain [kəm'plein] v  抱怨,发牢骚
+1356  quarrel ['kwɔrəl] v  争吵
+1357  quarrel with['kwɔrəl wið]phr.(和某人)吵架
+1358  surprise [sə'praiz] n 惊奇,惊讶
+1359  police [pə'li:s] n 警察(局)
+1360  voice [vɔis] n 说话声,嗓音
+1361  enjoy oneself[in'dʒɔi wʌn,self]phr.过得快乐,玩得痛快
+1362  themselves [ðəm'selvz] pron 他们自己
+1363  care [kɛə] v  介意,在乎,关心
+1364  half-way   adv 在途中,半路上
+1365  trouble ['trʌbl] n 麻烦,烦恼
+1366  headache ['hedeik] n 头痛
+1367  have a headache   phr. (患)头痛
+1368  cough [kɔf] v & n 咳嗽
+1369  have a cough   phr. (患)咳嗽
+1370  terrible['terəbl]adj可怕的,感到极不舒服的
+1371  serious ['siəriəs] adj 严重的,严肃
+1372  pain [pein] n 疼痛,疼
+1373  dream [dri:m] n & v梦,梦想 做梦,向往
+1374  worst [wə:st] adj 最坏的,最恶劣的
+1375  wake [weik] v  (使)醒来
+1376  wake up   phr. 醒来,唤醒
+1377  as soon as   conj 一...就
+1378  asleep [ə'sli:p] adj 睡着的,熟睡的
+1379  fall asleep   phr. 睡觉,入睡
+1380  plant [plɑ:nt] n & v  植物  种植
+1381  storm [stɔ:m] n 暴风雨
+1382  stop...from  phr. 阻止...做
+1383  difficult ['difikəlt] adj 困难的,难的
+1384  pill [pil] n 药丸,药片
+1385  awake [ə'weik] adj 清醒的
+1386  be awake   phr. 醒着的
+1387  relax [ri'læks] v  放松,轻松
+1388  again and again phr. 再三地,一再地,反复地
+1389  angry ['æŋgri] adj 发怒的,生气的
+1390  hard [hɑ:d] adj 硬的
+1391  smell [smel] v  闻,嗅,散发(气味)
+1392  rich [ritʃ] adj 有钱的,富裕的,丰富的
+1393  become [bi'kʌm] v  变得,变成,成为
+1394  instead [in'sted] adv 代替,顶替
+1395  instead of [in'sted əv] phr. 代替
+1396  look over   phr. (仔细)检查
+1397  enough [i'nʌf] adj 足够的,充分的
+1398  take exercise   phr. 做运动
+1399  fat [fæt] adj 肥胖的
+1400  thin [θin] adj 瘦的,薄的
+1401  island ['ailənd] n 岛,岛状物
+1402  farther ['fɑ:ðə] adj&adv (far的比较级)较远,更远
+1403  farthest ['fɑ:ðist]adj&adv(far的最高级)最远
+1404  somewhere ['sʌmhwɛə] adv 某处,在某处
+1405  land [lænd] v  登陆,上岸,降落
+1406  pull [pul] v  拉,拖,拔
+1407  out of   prep 从..向外,从..往外
+1408  cool [ku:l] adj 凉快的
+1409  anybody ['eni,bɔdi] pron 任何人
+1410  ourselves [,auə'selvz] pron 我们自己
+1411  all by oneself   phr. 独立,单独
+1412  perhaps [pə'hæps] adv 也许,可能
+1413  happily ['hæpili] adv 高兴地,快乐地
+1414  lots of   phr. 许许多多的
+1415  no longer   phr. 不再
+1416  missing ['misiŋ] adj 丢失的,失踪的
+1417  cry [krai] v  哭,叫喊
+1418  get back ['get bæk] phr. 回来,取回
+1419  too...to  phr. 太...而不能
+1420  anywhere ['enihwɛə] adv 任何地方
+1421  solve [sɔlv] v  解决,解答
+1422  believe [bi'li:v] v  相信,认为
+1423  everybody ['evribɔdi] pron 每人,人人
+1424  sooner or later   phr. 迟早
+1425  drop [drɔp] n & v  滴,水滴  掉下,落下
+1426  run away   phr. 逃跑
+1427  as [æz] conj 因为,由于
+1428  eat up   phr. 吃完,吃光
+1429  bank [bæŋk] n (海,河,湖的)岸,堤
+1430  circle ['sə:kl] n 圈子,圆
+1431  yet [jet] adv (用于否定句)还(没)
+1432  myself [mai'self] pron 我自己
+1433  cousin ['kʌzn] n 堂(表)兄弟,堂(表)姐妹
+1434  engineer [,endʒi'niə] n 工程师
+1435  cancer ['kænsə] n 癌症
+1436  care [kɛə] n 小心,照料,保护
+1437  take care of   phr. 照顾,照料,注意
+1438  sad [sæd] adj 难过的,悲哀的
+1439  death [deθ] n 死,死亡
+1440  page [peidʒ] n (书的)页
+1441  palace ['pælis] n 宫,宫殿
+1442  the Summer Palace   n 颐和园
+1443  herself [hə:'self] pron 她自己
+1444  turn on['tə:n ɔn]phr.打开(电灯,收音机,煤气,自来水)
+1445  while [hwail] n 一会儿
+1446  after a while   phr. 过了一会儿
+1447  turn off ['tə:n ɔf]phr.关(电灯,收音机,煤气,自来水等)
+1448  any more   phr. 再,更
+1449  make faces   phr. 做鬼脸,做苦脸
+1450  whole [həul] adj 全部的
+1451  wonderful ['wʌndəfəl] adj极好的,精彩的
+1452  have a cold   phr. (患)感冒
+1453  once [wʌns] adv 曾经,以前
+1454  himself [him'self] pron 他自己
+1455  tooth [tu:θ] n 牙齿
+1456  kill [kil] v  杀死,弄死
+1457  teach oneself  phr. 自学
+1458  fall off ['fɔ:l ɔf] phr. (从...)掉下
+1459  clever ['klevə] adj 聪明的,机灵的
+1460  yourselves [jɔ:'sɛlvz] pron 你们自己
+1461  find out ['faind aut] phr. 找出,查出
+1462  piano [pi'ænəu] n 钢琴
+1463  moonlight ['mu:n,lait] n & adj 月光(的)
+1464  poor [puə] adj 贫穷的,可怜的
+1465  afford [ə'fɔ:d]v有足够的(钱/时间)做(某事)
+1466  knock [nɔk] v  敲,击
+1467  knock at   phr. 敲(门,窗等)
+1468  dim [dim] adj 微暗的,昏暗的
+1469  pardon ['pɑ:dn] v  原谅(某人),宽恕
+1470  to one's surprise   phr. 令(某人)惊讶
+1471  blind [blaind] adj 瞎的,盲的
+1472  shine [ʃain] v  照亮,发亮
+1473  bright [brait] adj 明亮的,晴朗的
+1474  brightly ['braitli] adv 明亮地,闪亮地
+1475  through [θru:] prep  通过,穿过,经过
+1476  look up ['luk ʌp] phr. 向上看,抬头看
+1477  silently ['sailəntli] adv 寂静地,沉默地
+1478  come along come along phr. 来,随同
+1479  return [ri'tə:n] v  回来,归还
+1480  cookie ['kuki] n 小甜饼
+1481  leave...behind  phr. 把...遗留在(留下)
+1482  hold a sports meeting   phr. 举行运动会
+1483  race [reis] n 赛跑
+1484  100-metre race   phr. 100米赛跑
+1485  win [win] v  获胜,赢
+1486  high jump   n 跳高
+1487  long jump   n 跳远
+1488  neck [nek] n 颈,脖子
+1489  active ['æktiv] adj 积极的
+1490  take an active part in   phr.积极参加
+1491  relay [ri'lei] n 接力,赛跑
+1492  starting/finishing line  phr. 起点/终点线
+1493  runner ['rʌnə] n 赛跑的人
+1494  loud [laud] adj 大声的,响亮的
+1495  loudly ['laudli] adv 大声地,高声地
+1496  lap [læp] n (竞赛场的)一圈
+1497  pass on ['pɑ:s ɔn] phr. 传递,转移到...
+1498  stick [stik] n 棒,棍
+1499  catch up with   phr. 赶上
+1500  neck and neck   phr. (竞赛等)并驾齐驱
+1501  as...as  conj 与...一样
+1502  a moment later  phr. 片刻之后
+1503  go on doing sth  phr. 继续做(某事)
+1504  fall behind  phr. 落在...后面,输给别人
+1505  winner ['winə] n 获胜者
+1506  well done   phr. 做得好
+1507  congratulation[kən,grætju'leiʃən] n (常用复数)祝贺,庆贺
+1508  not as/so...as  conj 与...不一样
+1509  rather ['rɑ:ðə] adv 相当
+1510  loudspeaker ['laud'spi:kə]n扬声器,扩音器
+1511  result [ri'zʌlt] n 结果
+1512  dance [dɑ:ns] v  跳舞
+1513  headmaster ['hed'mɑ:stə] n 校长
+1514  take turns [,teik 'tə:nz] phr. 轮流
+1515  do one's best   phr. 尽最大努力,尽力
+1516  person ['pə:sn] n 人
+1517  speed [spi:d] n 迅速,速度
+1518  thought [θɔ:t] n 思考,思想,想法
+1519  technology [tek'nɔlədʒi] n 技术,工艺学
+1520  best-seller  n 畅销货(书)
+1521  interested ['intəristid] adj 感兴趣的
+1522  be interested in   phr. 对..感兴趣
+1523  Washington ['wɔʃiŋtən] n 华盛顿
+1524  future ['fju:tʃə] n 将来,未来
+1525  in the future   phr. 将来
+1526  large [lɑ:dʒ] adj 大的,(数量)多的
+1527  spend [spend] v  花(时间,钱),度过
+1528  unusual [ʌn'ju:ʒuəl]adj 不寻常的,非凡的
+1529  in the end   phr. 最后
+1530  work out   phr. 算出,制定出
+1531  software ['sɔftwɛə] n (电脑)软件
+1532  program(programme['prəugræm]) 
+['prəugræm] n 程序,项目,节目
+1533  university [,ju:ni'və:siti] n 综合性大学
+1534  develop [di'veləp] v  发展,研制,开发
+1535  BASIC ['beisik] n (电脑)初学者通用符号指令码
+1536  microcomputer ['maikrəukəm'pju:tə] n 微型计算机
+1537  Microsoft ['maikrəusɔft] n 微软公司
+1538  tool [tu:l] n 工具
+1539  personal ['pə:sənl] adj 私人的,个人的
+1540  improve [im'pru:v] v  提高,改善
+1541  golf [gɔlf] n 高尔夫球
+1542  bridge [bridʒ] n 桥牌
+1543  pleased [pli:zd] adj 高兴的,愉快的
+1544  T-shirt ['ti:ʃə:t] n 短袖无领汗杉,T恤(杉)
+1545  disease [di'zi:z] n 疾病
+1546  million ['miljən] n 百万,百万元
+1547  decide [di'said] v  决定,决心
+1548  billion ['biljən] n 十亿
+1549  lucky ['lʌki] adj 幸运的,侥幸的
+1550  unlucky [ʌn'lʌki] adj 不走运的,不幸的
+1551  size [saiz] n 尺寸,大小
+1552  almost ['ɔ:lməust] adv 几乎,差不多
+1553  speaker ['spi:kə] n 演讲者,说话者
+1554  joke [dʒəuk] n 笑话,玩笑
+1555  play a joke on   phr. 戏弄人,对某人恶作剧
+1556  lose [lu:z] v  丢失,失去,迷失(方向)
+1557  hide [haid] v  躲藏
+1558  conductor [kən'dʌktə]n(汽车,电车上的)售票员,列车员
+1559  check [tʃek] v  检查,核对
+1560  lie [lai] v  躺,平躺
+1561  deaf [def] adj 聋的
+1562  painter ['peintə] n 画家
+1563  get on well with  phr. 与...相处融洽
+1564  neighbour ['neibə] n 邻居
+1565  ever ['evə] adv 曾经
+1566  upstairs ['ʌp'stɛəz] adj & adv (在)楼上,(往)楼上
+1567  take off   phr. 脱下(衣,帽,鞋等)
+1568  boot [bu:t] n 长统鞋
+1569  downstairs [,daun'stɛəz] adj & adv(在)楼下,(往)楼下
+1570  bang [bæŋ] v  猛敲,猛撞,砰砰作响
+1571  be angry with   phr. 对(某人)发脾气
+1572  usual ['ju:ʒuəl] adj 通常的,平常的
+1573  as usual [əz 'ju:ʒuəl] phr. 像平常一样
+1574  sound [saund] n 声音
+1575  PE   n 体育
+1576  chemistry ['kemistri] n 化学
+1577  sweep [swi:p] v  扫,扫地
+1578  choose [tʃu:z] v  选择,挑选
+1579  truck [trʌk] n 卡车
+1580  seller ['selə] n 卖者,售货员
+1581  biology [bai'ɔlədʒi] n 生物(学)
+1582  be fed up with   phr. 厌倦
+1583  knock on   phr. 敲(门,窗等)
+1584  refuse [ri'fju:z] v  拒绝
+1585  politely [pə'laitli] adv 有礼貌地
+1586  pair [pɛə] n 一对,一双
+1587  a pair of   phr. 一对,一双
+1588  scissors ['sizəz] n (复数)剪刀
+1589  racket ['rækit] n (网球,羽毛球等的)球拍
+1590  motorbike['məutəbaik]n摩托车或有发动机的自行车
+1591  review [ri'vju:] v  复习(功课等)
+1592  Russian ['rʌʃən] n&adj俄国的,俄国人(的), 俄语(的)
+1593  novel ['nɔvəl] n (长篇)小说
+1594  wallet ['wɔlit] n 钱夹,皮夹
+1595  ground [graund] n 地面,土地
+1596  cause [kɔ:z] v  引起
+1597  suddenly ['sʌdnli] adv 突然地
+1598  luckily ['lʌkili] adv 好运地,幸运地
+1599  gatekeeper ['geit,ki:pə] n 看门人,门卫
+1600  mention ['menʃən] v  提到,说起
+1601  crow [krəu] v  拥挤
+1602  imagine [i'mædʒin] v  设想,想像
+1603  while [hwail] conj 当..时候,和..同时
+1604  repair [ri'pɛə] v  修理,修补
+1605  steer [stiə] n & v  驾驶,掌舵
+1606  steering wheel   n 驾驶盘
+1607  dive [daiv] v  潜入(水中),跳水
+1608  diver ['daivə] n 潜入水中的人,潜水员
+1609  at once   phr. 立刻,马上
+1610  mouth-to-mouth ['mauθtə'mauθ] adj(人工呼吸)口对口的
+1611  breathe [bri:ð] v  呼吸
+1612  come to oneself  phr. 苏醒,恢复知觉
+1613  rob [rɔb] v  抢劫
+1614  hard-working  adj 辛勤工作的,用功的
+1615  art [ɑ:t] n 艺术,艺术品
+1616  at the moment  phr. 此刻
+1617  Titanic [tai'tænik] n 泰坦尼克(船名)
+1618  set [set] v  使开始,安置
+1619  set off ['set ɔf] phr. 出发,动身,起初
+1620  pleasant ['pleznt] adj 愉快的,快乐的
+1621  iceberg ['aisbə:g] n 冰山
+1622  here and there   phr. 到处,处处
+1623  on watch   phr. 值班,守望
+1624  look out   phr. 留神,注意
+1625  in front   phr. 前方,正对面
+1626  hole [həul] n 洞,孔,坑
+1627  sink [siŋk] v  下沉,沉没
+1628  life [laif] n 生命,生活
+1629  lifeboat ['laifbəut] n 救生船(艇)
+1630  make room for   phr. 给..腾出地方
+1631  take one's place phr.坐某人的座位,代替某人的职位
+1632  thankful ['θæŋkfəl] adj 感激的,感谢的
+1633  Boston ['bɔstən] n 波士顿(美国马萨诸塞州的首府)
+1634  war [wɔ:] n 战争 
+1635  information [,infə'meiʃən] n 信息,情报
+1636  noisy ['nɔizi] adj 喧闹的,嘈杂的
+1637  penguin ['peŋgwin] n 企鹅
+1638  pink [piŋk] adj 粉红色的,桃红色的
+1639  shellfish ['ʃelfiʃ] n 贝类,甲壳虫
+1640  lay [lei] v  下蛋,产蛋 
+1641  pretty ['priti] adj 漂亮的,美丽的
+1642  toe [təu] n 脚趾  
+1643  rub [rʌb] v  磨,擦
+1644  human ['hju:mən] n & adj 人(的),人类(的)
+
+第三册  1645----2182
+1645  CD player   phr. 激光唱机
+1646  several ['sevərəl] adj & pron 几个；若干
+1647  shelf [ʃelf] (pl. shelves[ʃelvz])  n 架子；搁板
+1648  already [ɔ:l'redi] adv 已经
+1649  used to   phr. 过去常常
+1650  on [ɔn] prep  关于
+1651  knowledge ['nɔlidʒ] n 知识；学问
+1652  yard [jɑ:d] n 院子
+1653  schoolyard ['sku:ljɑ:d] n 校园
+1654  put (sth) down   phr.把某物放下来
+1655  step [step] n & v  脚步；走；踏入；踩
+1656  librarian [lai'brɛəriən] n 图书管理员
+1657  probably ['prɔbəbli] adv 很可能；大概
+1658  pay (paid[peid] ,pay的过去式和过去分词)[pei]v 付钱；支付
+1659  pay for ['pei fə(r)] phr. 付钱；支付
+1660  sadly ['sædli] adv 难过地；悲哀地 
+1661  come up with    phr. 找到；提出（答案，办法） 
+1662  mark [mɑ:k] n 记号；标记；痕迹    
+1663  bookmark ['buk,mɑ:k] n 书签
+1664  think of   phr. 想起   
+1665  encourage [in'kʌridʒ] v  鼓励
+1666  get…back   phr. 退还；送 回去；取 回
+1667  pick…up   phr. 拾起；捡起
+1668  once [wʌns] adv 一次
+1669  abroad [ə'brɔ:d] adv 到国外；在国外
+1670  copy ['kɔpi] v  抄写；
+1671  as [æz] prep  作为
+1672  screen [skri:n] n 屏幕
+1673  spoil [spɔil](spoilt[spɔilt],spoil的过去式与过去分词) v 糟蹋
+1674  surf [sə:f] v  冲浪
+1675  surfing ['sə:fiŋ] n 冲浪运动
+1676  surfer ['sə:fə] n 冲浪者
+1677  wave [weiv] n 浪；波浪
+1678  beach [bi:tʃ] n 海（河、湖）滩
+1679  have a try   phr. 尝试；努力；射击
+1680  twice [twais] adv 两次；两倍
+1681  none [nʌn] pron 一个人也没有；没有任何东 西
+1682  water-ski ['wɔ:təski:] v  做滑水运动
+1683  canoe [kə'nu:] v  乘独木舟
+1684  describe [di'skraib] v  描写；叙述
+1685  all over   phr. 遍及
+1686  especially [is'peʃəli] adv 特别；尤其
+1687  attract [ə'trækt] v  吸引
+1688  large numbers of   phr. 许多
+1689  no matter   phr. 不论
+1690  so-called ['səu'kɔ:ld] adj 所谓的
+1691  possible ['pɔsəbl] adj 可能的
+1692  both…and…  phr.   ...和...都
+1693  give up   phr. 放弃
+1694  since [sins] adv & conj 此后;自..以来
+1695  ever since   phr. 从那时起；此后一直
+1696  part-time['pɑ:t'taim]adj&n非全日工作的;业余 时间
+1697  although [ɔ:l'ðəu] conj 虽然；尽管
+1698  fit [fit] adj & v  健康的；适合的；（使）适 合
+1699  prize [praiz] n 奖品；奖赏
+1700  competition [,kɔmpi'tiʃən] n 比赛；竞争
+1701  event [i'vent] n 大事；事件
+1702  Olympic [əu'limpik] adj 奥林匹克的
+1703  the Olympic Games   phr. 奥林匹克运动会
+1704  such [sʌtʃ] adj 这样的
+1705  fail [feil] v  失败；不及格
+1706  practice['præktis]﹠practise['præktis]n&v练习, 实践
+1707  business ['biznis] n 商业；生意；事务
+1708  so far   phr. 到目前为止
+1709  cross [krɔ:s] v  越过；穿过
+1710  channel ['tʃænl] n 海峡；航道；频道；波段
+1711  come true [,kʌm 'tru:] phr. 实现
+1712  mainland ['meinlənd] n 大陆；本土
+1713  slow [sləu] v  放慢；减速
+1714  slow down   phr. 减缓；减速
+1715  journey ['dʒə:ni] n 旅程；旅行；路程
+1716  among [ə'mʌŋ] prep  在……当中
+1717  proud [praud] adj 自豪的；骄傲的
+1718  be proud of   phr. 以……自豪（兴奋）
+1719  speak highly of   phr. 称赞
+1720  not only…but also  phr. 不但……而且
+1721  pride [praid] n 自豪；骄傲
+1722  unless [ən'les] conj 除非；如果不
+1723  shot [ʃɔt] n 尝试；努力；射击
+1724  truth [tru:θ] n 真理，真相，事实
+1725  pour [pɔ:] v  倒；灌；倾泻
+1726  waste [weist] adj & n 废弃的；无用的；垃圾；废物
+1727  dirty ['də:ti] adj 脏的
+1728  be afraid of   phr. 害怕
+1729  member ['membə] n 成员
+1730  join [dʒɔin] v  加入；参加
+1731  environment [in'vaiərənmənt] n 环境
+1732  harm [hɑ:m] v  损害；伤害
+1733  rubbish ['rʌbiʃ] n 垃圾；废物
+1734  collect [kə'lekt] v  收集；搜集
+1735  whenever [hwen'evə] conj&adv无论什么时候;随时
+1736  produce [prə'dju:s] v  产生；生产；制造
+1737  wherever [hwɛər'evə] conj & adv 无论在（到）哪里；在任何地方
+1738  neighbourhood ['neibəhud] n. 四邻；街坊；邻近
+1739  litter ['litə] n & v  垃圾，废物；乱丢杂物
+1740  onto ['ɔntu:] prep  在…上面；到…上面
+1741  public ['pʌblik] adj 公共的；公众的
+1742  spit(spat[spæt]，spit的过去式和过去分词)[spit] v吐痰；吐唾沫
+1743  cut down ['kʌt daun] phr. 砍倒
+1744  protect [prə'tekt] v  保护
+1745  tidy ['taidi] adj 整洁的；整齐的
+1746  dustbin ['dʌstbin] n 垃圾箱
+1747  recycle [ri:'saikl] v  再循环；回收再用
+1748  contribution [,kɔntri'bju:ʃən] n 贡献
+1749  make a contribution to   phr. 贡献给；捐赠
+1750  suppose [sə'pəuz] v  猜想
+1751  riddle ['ridl] n 谜语
+1752  do well in   phr. 在……某方面干得好
+1753  nearby ['niəbai] adv 附近
+1754  headmaster ['hed'mɑ:stə] n （英)中小学校长
+1755  mount [maunt] n  …山；…峰
+1756  as soon as possible   phr. 尽可能早地；尽快
+1757  except [ik'sept] prep  除…之外
+1758  province ['prɔvins] n 省
+1759  enjoyable [in'dʒɔiəbl] adj 愉快的；有趣的
+1760  rush [rʌʃ] v  冲；奔跑
+1761  rail [reil] n 轨道；铁路
+1762  railway ['reilwei] n （英）铁路
+1763  lively ['laivli] adj 热闹的；有生气的
+1764  all kinds of   phr. 各种各样的
+1765  comfortable ['kʌmfətəbl] adj 舒适的；舒服的
+1766  keep doing something   phr. 一直做某事
+1767  scenery ['si:nəri] n 风景；景色
+1768  offer ['ɔ:fə] v  & n 拿出；提供
+1769  magazine [,mægə'zi:n] n 杂志
+1770  practise ['præktis] v  实践；练习
+1771  moving ['mu:viŋ] adj. 活动的；移动的；动的人
+1772  click [klik] n & v  咔哒声;发出咔哒声
+1773  pity ['piti] n 遗憾的事，可惜的事
+1774  score [skɔ:] n & v  （比赛）得分
+1775  own [əun] adj 自己的
+1776  least [li:st] adj 最小的；最少的
+1777  kid [kid] n （口语）小伙子
+1778  scuba ['skju:bə] n 水肺（潜水者用的水下呼吸器）
+1779  Internet ['intə,net] n 因特网，互联网络
+1780  search [sə:tʃ] v  搜查，搜索
+1781  double ['dʌbl] adj & v  双重的，双倍的
+1782  icon ['aikɔn] n 图象符号，图标
+1783  type [taip] v  (用打字机或电脑)打字
+1784  press [pres] v  按，压
+1785  enter ['entə] v  进入
+1786  button ['bʌtn] n 按钮，纽扣
+1787  capital ['kæpitl] n 首都
+1788  population [,pɔpju'leiʃən] n 人口，人数
+1789  ridge [ridʒ] n 山脉
+1790  tomb [tu:m] n 坟墓
+1791  whether ['hweðə] conj 是否
+1792  edge [edʒ] n 边，边缘
+1793  rim [rim] n 边，缘
+1794  cool [ku:l] adj （俚语）了不起
+1795  cost [kɔst] v  价钱为，花费（金钱、时间等）
+1796  one-way ['wʌn,wei] adj 单程的，单行的
+1797  flight [flait] n 航班，飞行
+1798  book [buk] v  预定（戏票、车票等）
+1799  round-trip['raund,trip]adj(车票等)来回的,往返的
+1800  instruction [in'strʌkʃən] n 说明，须知
+1801  straight [streit] adv 一直地
+1802  go straight along    phr. 沿着…一直往前走
+1803  whom [hu:m] pron 谁，哪个人（who的宾格）
+1804  think about   phr. 考虑
+1805  chance [tʃɑ:ns] n 机会
+1806  coral ['kɔrəl] n 珊瑚
+1807  reef [ri:f] n 岩礁
+1808  coral reef   n 珊瑚礁
+1809  sound [saund] v  听起来
+1810  brochure [brəu'ʃjuə] n 小册子
+1811  pool [pu:l] n 水池，水坑
+1812  outdoor ['autdɔ:] adj 户外的，野外的
+1813  badly ['bædli] adv 严重地，恶劣地
+1814  allow [ə'lau] v  允许，准许
+1815  deep [di:p] adj 深的
+1816  explore [iks'plɔ:] v  探测，探险
+1817  explorer [iks'plɔ:rə] n 探测者，探险者
+1818  undersea ['ʌndə'si:] adj 海底的
+1819  amaze [ə'meiz] v  使…大为惊讶，使惊
+1820  be amazed at   phr. 对…感到惊讶
+1821  however [hau'evə] conj 然而，可是
+1822  colourful ['kʌləfəl] adj 颜色艳丽的
+1823  dead [ded] adj 死的
+1824  society [sə'saiəti] n 社会
+1825  since [sins] conj 由于，既然
+1826  cover ['kʌvə] v  覆盖
+1827  earth [ə:θ] n 陆地，大地，地球
+1828  clean up ['kli:n ʌp] phr. 清除，收拾干净
+1829  ocean ['əuʃən] n 海洋，大洋
+1830  pollute [pə'lu:t] v  污染，弄脏
+1831  group [gru:p] n 组，群，团队
+1832  terrific [tə'rifik] adj （口语）很棒的，极好的
+1833  as long as   phr. 长达…
+1834  sometime ['sʌmtaim] adv （未来的）某时
+1835  deal [di:l] n （口语）协议，交易
+1836  shark ['ʃɑ:k] n 鲨鱼
+1837  on earth [ɔn 'ə:θ] phr. 在地球上
+1838  alike [ə'laik] adj 相似的，相像的
+1839  attack [ə'tæk] n & v  攻击，袭击
+1840  Africa ['æfrikə] n 非洲
+1841  South Africa   n 南非
+1842  watchtower ['wɔtʃ'tauə] n 监视塔，瞭望塔
+1843  warn [wɔ:n] v  警告，提醒
+1844  appear [ə'piə] v  出现，露面
+1845  able ['eibl] adj 有能力的，能干的
+1846  be able to   phr. 能，会
+1847  neatly ['ni:tli] adv 整洁地
+1848  own [əun] v  拥有，所有
+1849  spirit ['spirit] n 精神
+1850  inventor [in'ventə] n 发明者，创造者
+1851  try out ['trai aut] phr. 实验，尝试
+1852  pupil ['pju:pl] n 小学生，学生
+1853  build [bild] v  建立，建造，建设
+1854  at the age of   phr. 在…岁时
+1855  print [print] v  印刷，印制
+1856  track [træk] n (火车等的)轨道，跑道
+1857  frighten ['fraitən] v  惊恐，吓唬
+1858  frightened ['fraitnd] adj 受惊的，害怕的
+1859  rush out ['rʌʃ aut] phr. 冲出去
+1860  safety ['seifti] n 安全
+1861  telegraph ['teligrɑf] n 电报
+1862  invention [in'venʃən] n 发明，创造
+1863  open up ['əupən ʌp] phr. 开设，开业，开放
+1864  lifetime ['laiftaim] n 一生，终生
+1865  graduate ['grædjueit] v  毕业
+1866  turn down ['tə:n daun] phr. 关小，调低
+1867  healthily ['helθili] adv 健康地
+1868  clearly ['kliəli] adv 清楚地
+1869  frustrate [frʌs'treit] v  使沮丧，使失败
+1870  frustrated [frʌs'treitid] adj 感到灰心丧气的
+1871  wonder ['wʌndə] v 惊奇，惊讶,（对...）感到怀疑
+1872  worth [wə:θ] adj 有…的价值，值得
+1873  confidence ['kɔnfidəns] n 信心，自信
+1874  merry ['meri] adj 愉快的；欢乐的
+1875  decorate ['dekəreit] v  装饰，修饰
+1876  put up ['put ʌp] phr. 挂起，举起
+1877  angel ['eindʒəl] n 天使，守护神
+1878  circle ['sə:kl] v  & n 环绕，绕行    圆，圈子
+1879  eve [i:v] n （节日或重大事件发生的）前夕
+1880  stocking ['stɔkiŋ] n 长统袜
+1881  pet [pet] n 宠爱的动物
+1882  as well [əz 'wel] adv 又，同样地
+1883  kind-hearted   adj 好心的
+1884  chimney ['tʃimni] n 烟囱，烟筒
+1885  single ['siŋgl] adj 单个的，只有一个的
+1886  base [beis] v  以…作根据，基于
+1887  base on   phr. 以…（为）根据
+1888  real ['ri:əl] adj 真正的，真实的
+1889  Turkey ['tə:ki] n 土耳其
+1890  shy [ʃai] adj 害羞的，腼腆的
+1891  hang [hæŋ] v  吊着，悬挂
+1892  fireplace ['faiəpleis] n 壁炉
+1893  dry [drai] v  把…弄干，晒干
+1894  though [ðəu] conj 虽然…，尽管…
+1895  even though   conj 即使…
+1896  generosity [,dʒenə'rɔsiti] n 慷慨，豁达
+1897  live on   phr. 继续存在，继续活着
+1898  relative ['relətiv] n 亲属，亲人
+1899  greet [gri:t] v  问候，向（人）打招呼
+1900  hug [hʌg] n 拥抱，紧抱
+1901  western ['westən] adj 西方的，西部的
+1902  traditional [trə'diʃənəl] adj 传统的，惯例的
+1903  once upon a time   phr. 从前，很早以前
+1904  special ['speʃəl] adj 特别的，特殊的
+1905  at last [ət 'lɑ:st] phr. 终于，最后
+1906  owner ['əunə] n 拥有者，所有者
+1907  barn [bɑ:n] n 谷仓，堆物房；马房，牛舍
+1908  give birth to   phr. 生（孩子）
+1909  shepherd ['ʃepəd] n 牧羊人
+1910  be made in   phr. 在…生产或制造
+1911  be made of   phr. 由…组成，由…构成
+1912  brush [brʌʃ] n 刷子，毛笔，画笔
+1913  writing brush   n 毛笔
+1914  bamboo [bæm'bu:] n 竹子
+1915  be used for   phr. 用于
+1916  pan [pæn] n 平底锅
+1917  jacket ['dʒækit] n夹克衫
+1918  metal ['metl] n 金属
+1919  stamp [stæmp] n 邮票
+1920  wool [wul] n 羊毛，绒线
+1921  wood [wud] n 木头，木材
+1922  lock [lɔk] n & v  锁；上锁
+1923  store [stɔ:] v  储藏，存储
+1924  widely ['waidli] adv 广泛地，广阔地
+1925  Britain ['britən] n 英国，不列颠
+1926  set [set] n 装置，设备
+1927  a TV set   phr. 一台电视
+1928  Germany ['dʒə:məni] n 德国
+1929  Frenchman ['frentʃmən] n 法国人
+1930  traveller ['trævlə] n 旅行者
+1931  cotton ['kɔtn] n 棉花
+1932  silk [silk] n （蚕）丝
+1933  camera ['kæmərə] n 照相机
+1934  digital ['didʒitəl] adj 数字似的
+1935  ordinary ['ɔ:dnri] adj 普通的，通常的
+1936  aeroplane ['ɛərəplein] n 飞机
+1937  satellite ['sætəlait] n 卫星
+1938  rocket ['rɔkit] n 火箭
+1939  on show [ɔn 'ʃəu] phr. 展出
+1940  dinosaur ['dainəsɔ:] n 恐龙
+1941  display [di'splei] n 陈列
+1942  on display [ɔn dis'plei] phr. 陈列，展览
+1943  natural ['nætʃərəl] adj 自然界的，天然的
+1944  guide [gaid] n & v  向导，导游者；指导，引导
+1945  underground ['ʌndəgraund] adj 地下的
+1946  fossil ['fɔsl] n 化石
+1947  desert ['dezət] n 沙漠
+1948  Gobi Desert   n 戈壁沙漠
+1949  human being   n 人
+1950  disappear [,disə'piə] v  消失
+1951  disappearance [,disə'piərəns] n 消失
+1952  discover [dis'kʌvə] v  发现，发觉
+1953  feather ['feðə] n 羽毛
+1954  found [faund] v  成立，建立
+1955  entrance ['entrəns] n 入口，进口，入场
+1956  exit ['eksit] n 出口
+1957  fragile ['frædʒil] adj 易碎的
+1958  park [pɑ:k] v  （将车）停放
+1959  parking ['pɑ:kiŋ] n 停车（处）
+1960  danger ['deindʒə] n 危险
+1961  pause [pɔ:z] v  & n 中止，暂停
+1962  teapot ['ti:pɔt] n 茶壶
+1963  bowl [bəul] n 碗
+1964  serve [sə:v] v  上（酒、菜等），开（饭）；服务
+1965  fill [fil] v  装满，填充
+1966  be filled with   phr. 用…充满
+1967  object ['ɔbdʒikt] n 物体
+1968  dig [dig] v  挖，掘
+1969  make sure [,meik 'ʃuə(r)] phr.确保,确认,查明
+1970  so that   conj 以便，以致
+1971  hear of   phr. 听说
+1972  run away ['rʌn ə,wei] phr.流失,逃跑，逃走
+1973  drought [draut] n 旱灾，干旱
+1974  drop [drɔp] n 滴，水滴
+1975  soil [sɔil] n 土壤，土地
+1976  directly [di'rektli] adv 直接地
+1977  leaf [li:f] n 叶子，树木、草的叶子
+1978  in this way   phr. 用这种方法
+1979  flood [flʌd] n & v  洪水，水灾；淹没，泛滥
+1980  prevent [pri'vent] v  防止，阻止
+1981  northern ['nɔ:ðən] adj 北部的，北方的
+1982  wide [waid] adj 宽的
+1983  blow(blew[blu:],blow的过去式;blown[bləun],blow的过去分词) [bləu] v  吹
+1984  sand [sænd] n 沙，沙子
+1985  towards [tə'wɔ:dz] prep  向，朝
+1986  farmland ['fɑ:mlænd] n 农田
+1987  point [pɔint] v  指，指向…
+1988  point to ['pɔint tə] phr. 指向…
+1989  far away   phr. 很远，遥远
+1990  thanks to ['θæŋks tə] phr. 由于，幸亏
+1991  the more the better   phr.越多越好
+1992  correct [kə'rekt] adj 改正
+1993  hand in   phr. 交上来
+1994  more or less   phr. 多少有点，或多或少
+1995  grand [grænd] adj 豪华的，庄重的，雄伟的
+1996  hall [hɔ:l] n 大厅，会堂，会馆
+1997  notice ['nəutis] n 通告，布告
+1998  audience ['ɔ:diəns] n 听众
+1999  slipper ['slipə] n (常用复数)拖鞋,便鞋
+2000  height [hait] n 高度
+2001  beeper ['bi:pə] n 袖珍无线电传呼机,电话呼叫机
+2002  someday ['sʌmdei] adv （今后）有一天
+2003  printer ['printə] n 打印机
+2004  print [print] v  打印
+2005  document ['dɔkjumənt] n 公文，文件
+2006  connect [kə'nekt] v  连接，相连，联系
+2007  modem ['məudem] n 调制解调器
+2008  provide [prə'vaid] v  提供
+2009  monitor ['mɔnitə] n 显示器
+2010  point at   phr. 指示，指向
+2011  universe ['ju:nivə:s] n 宇宙
+2012  man-made ['mænmeid] adj 人造的，人工的
+2013  satellite ['sætəlait] n 卫星
+2014  space [speis] n 空间，太空
+2015  spaceship ['speisʃip] n 宇宙飞船
+2016  send [send] v  送，寄，派（遣）
+2017  send up   phr. 发射，把…往上送
+2018  receive [ri'si:v] v  接受，收到，得到
+2019  shut [ʃʌt] v  关（门等）
+2020  shut down ['ʃʌt daun] phr. 把…关上
+2021  woolen ['wulin] adj 羊毛的，毛织的
+2022  impossible [im'pɔsəbl] adj 不可能的
+2023  mind [maind] n & v  思想，想法；关心，介意
+2024  set one's mind to do   phr. 一心想做…
+2025  put off   phr. 推迟，拖延
+2026  worm ['put ɔf] n 虫，蠕虫
+2027  activity [æk'tiviti] n 活动
+2028  increase [in'kri:s] v  增加，增长
+2029  if [if] conj 是否
+2030  hour after hour    phr.  一小时又一小时,连续地
+2031  multiply ['mʌltiplai] v  （将…）乘…
+2032  multiply…by…   phr.  …乘以…
+2033  challenge ['tʃælindʒ] n 挑战
+2034  beginning [bi'giniŋ] n 开始，开端
+2035  at the beginning of   phr. …起初，开始
+2036  square [skwɛə] n 平方，（方形的）广场
+2037  hardly ['hɑ:dli] adv 几乎不
+2038  more and more   phr. 越来越…
+2039  prefer [pri'fə:] v  宁愿（选择），更喜欢
+2040  prefer to   phr. 宁愿（选择），更喜欢
+2041  rather than  phr.宁可,是..而不是
+2042  used [ju:st] adj 用过的，半旧的
+2043  beg [beg] v  恳求，乞求
+2044  beg one's pardon   phr. 请原谅，对不起
+2045  worth [wə:θ] adj 值得..的，有..的价值
+2046  secondhand ['sekənd'hænd] adj 二手的，用过的
+2047  diagram ['daiəgræm] n 图表
+2048  discussion [di'skʌʃən] n 讨论
+2049  be busy doing   phr. 忙于做…
+2050  chart [tʃɑ:t] n 图表
+2051  download ['daunləud] v 下载
+2052  path [pɑ:θ] n 路线，去路
+2053  Brazil [brə'zil] n 巴西
+2054  excited [ik'saitid] adj 兴奋的，激动的
+2055  be excited about   phr. 对…感到兴奋
+2056  leather ['leðə] n 皮革
+2057  wear out ['wɛər aut] phr. 把…穿旧，磨坏
+2058  yen [jen] n 元，日元
+2059  try on ['trai ɔn]phr. 试穿（衣服,鞋）,试戴（帽子）
+2060  online [,ɔn'lain] adj & adv 在线，上网
+2061  ad [æd] n 广告
+2062  Canon ['kænən] n 佳能（照相机牌名）
+2063  shape [ʃeip] n 形状，外形
+2064  decision [di'siʒən] n 决定
+2065  make a decision   phr. 作出决定
+2066  screen [skri:n] n 屏幕
+2067  form [fɔ:m] n 表格
+2068  credit ['kredit] n 信用
+2069  credit card   n 信用卡
+2070  successfully [sək'sesfəli] adv 圆满地,顺利地,成功地
+2071  interest ['intərist] n 兴趣
+2072  a place of interest   phr. 名胜
+2073  forever [fə'revə] adv 永远，总是
+2074  lend(lent[lent],lend的过去式和过去分词) [lend] v把…借给，借给
+2075  go over ['gəu ,əuvə(r)] phr. 过一遍，仔细检查
+2076  make a mistake [,meik ə mis 'teik] phr. 犯错误
+2077  suit [su:t] n 一套衣服
+2078  drop off ['drɔp ɔf] phr. 放下（某物），下车
+2079  opera ['ɔpərə] n 歌剧
+2080  Peking opera   n 京剧
+2081  the Great Hall of the people   n 人民大会堂
+2082  huge [hju:dʒ] adj 巨大的
+2083  the Palace Museum  n 故宫博物院
+2084  rewarding [ri'wɔ:diŋ] adj 值得作的
+2085  grateful ['greitfəl] adj 感激的，感谢的
+2086  wag [wæg] v  摆动，摇动（尾巴等）
+2087  tail [teil] n 尾巴，尾部
+2088  lonely ['ləunli] adj 孤独的，寂寞的
+2089  success [sək'ses] n 成就，成功
+2090  Scotland ['skɔtlənd] n 苏格兰
+2091  make up one's mind   phr. 下决心
+2092  vet [vet] n （口语）兽医
+2093  mostly ['məustli] adv 主要地，大部分
+2094  heal [hi:l] v  使（伤、病）痊愈
+2095  pig [pig] n 猪
+2096  education [,edjukeiʃn] n 教育，培养
+2097  countryside ['kʌntri'said] n 乡下，农村
+2098  treat [tri:t] v  治疗，对待
+2099  before long [bi ,fɔ: 'lɔŋ] phr. 不久以后
+2100  regard [ri'gɑ:d] v  看待，当作
+2101  regard… as   phr. 把…当作，当作
+2102  exactly [ig'zæktli] adv 准确地，严格地
+2103  keep [ki:p] v  饲养，照顾
+2104  experience [iks'piəriəns] n 经验，体验
+2105  injection [in'dʒekʃən] n 注射，打针
+2106  painful ['peinfəl] adj 疼痛的，痛苦的
+2107  earthquake ['ə:θkweik] n 地震
+2108  rock [rɔk] v  震动，摇动
+2109  as if [əz 'if] conj 好像,似乎
+2110  at sea [ət 'si:] phr. 在大海上
+2111  story ['stɔ:ri] n （房屋的）层
+2112  two-story  n 两层
+2113  grab [græb] v  抓取…，夺取
+2114  crash [kræʃ] v  坠落，冲撞
+2115  mobile ['məubil] adj 可移动的
+2116  mobile phone   n 可移动电话
+2117  at all [ət 'ɔ:l] phr. （用否定句）一点也不
+2118  least [li:st] n 最少，最小
+2119  at least   phr. 至少，起码
+2120  beat [bi:t] v  打败，敲打
+2121  goal [gəul] n （足球）球门，得分
+2122  by the time   phr. 到…的时候
+2123  check-out ['tʃek,aut] n（购货时的）结帐台,收银台
+2124  realize ['riəlaiz] v  察觉，领悟，了解
+2125  train [trein] v  训练，培养
+2126  training ['treiniŋ] n 训练，培养
+2127  captain ['kæptin] n （足球队等）队长
+2128  deserve [di'zə:v] v  应得，值得…
+2129  confident ['kɔnfidənt] adj 有自信的，确信的
+2130  striker ['straikə] n （足球）前锋
+2131  midfield ['midfi:ld] n 中场
+2132  midfield player   n 中场球员
+2133  excellent ['eksələnt] adj 极好的，优秀的
+2134  shot [ʃɔt] n （球赛中）击，射门，投篮，发射
+2135  nervous ['nə:vəs] adj 紧张不安的
+2136  lazy ['leizi] adj 懒惰的
+2137  carry on ['kæri ɔn] phr. 坚持下去，继续下去
+2138  final ['fainl] adj 最后的
+2139  amazing [ə'meiziŋ] adj 令人惊奇的
+2140  be pleased with   phr. 对…感到满意
+2141  performance [pə'fɔ:məns] n 演出，成果，成绩
+2142  teamwork ['ti:mwə:k] n 合作，协同工作
+2143  baseball ['beis,bɔ:l] n 棒球
+2144  never mind [,nevə 'maind] phr. 没关系
+2145  boring ['bɔ:riŋ] adj 令人厌烦的
+2146  spill(spilt[spilt],spill的过去式和过去分词) [spil] v  溢出，溅出，洒出
+2147  from now on [frəm 'nau ɔn] phr. 从现在起，今后
+2148  rule [ru:l] n 规则，规定
+2149  against [ə'genst] prep  与…对抗，对着
+2150  expect [iks'pekt] v  期望，预期
+2151  rough [rʌf] adj 粗鲁的，激烈的
+2152  necklace ['neklis] n 项链
+2153  steal(stole[stəul],steal的过去式;stolen['stəulən]steal的过去分词) [sti:l] v  偷，窃取
+2154  hands up   phr. 举手
+2155  shoot(shot[ʃɔt],shoot的过去式和过去分词)[ʃu:t] v  射击，射死
+2156  detective [di'tektiv] n 侦探
+2157  inspector [in'spektə] n 警官，监督员
+2158  thief [θi:f] n 贼
+2159  notice ['nəutis] v  注意，通知
+2160  robber ['rɔbə] n 强盗，盗贼
+2161  come down ['kʌm daun] phr. 下来，落
+2162  escape [i'skeip]  n & v 逃亡，逃走，逃避
+2163  victim ['viktim] n 受害者，受骗者
+2164  conversation [,kɔnvə'seiʃən] n 会话，谈话
+2165  robbery ['rɔbəri]  n 抢劫案，抢劫
+2166  description [di'skripʃən]  n 描述，描写
+2167  excuse[ik'skju:s] n 借口，托词
+2168  steep [sti:p] adj 陡峭的，险峻的
+2169  British ['britiʃ]  adj 英国人的
+2170  misty ['misti] adj 有雾的，雾大的
+2171  mist [mist]  n 雾
+2172  wonder ['wʌndə]  v 惊奇，惊讶（对. . . . ）感到怀
+2173  club [klʌb]  n 俱乐部，社团
+2174  expert [ek'spə:t] n 专家，内行
+2175  trap [træp] v 使…陷入困境，设陷阱捕捉
+2176  tent [tent] n 帐篷
+2177  freeze [fri:z] (froze [frəuz], frozen ['frəuzn])  v 结冰，凝结
+2178  alive [ə'laiv]  adj 活着的
+2179  anytime ['enitaim]  adv 在任何时候
+2180  progress ['prəuɡres] v 进步，提高，前进
+2181  self-respect ['selfri'spekt]  n 自尊，自重
+2182  essential [i'senʃəl]  adj 本质的，主要的，必需的
