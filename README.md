@@ -6,6 +6,8 @@
 ![DEMO: House of Cards](https://github.com/scateu/zimubao/raw/master/snapshots/House.of.Cards.S01E01.jpg)
 ![DEMO: Yes Prime Minister](https://github.com/scateu/zimubao/raw/master/snapshots/Yes.Prime.Minister.S02E08.png)
 
+示例字幕文件见 `testcase/`
+
 ## TODO
 
  - [ ] 处理时态 
