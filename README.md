@@ -6,3 +6,9 @@
 
 
 ![DEMO](https://github.com/scateu/zimubao/raw/master/snapshots/House.of.Cards.S01E01.jpg)
+
+## TODO
+
+ - [ ] 处理时态 
+ - [ ] 复数
+ - [ ] 引入牛津词库
