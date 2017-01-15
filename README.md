@@ -23,3 +23,5 @@
  - [ ] argparse: stdin
  - [ ] publish to pip
  - [ ] 处理codec错误的情况，PySRT承.受.不.了
+ - [ ] 一条字幕中的重复单词
+ - [ ] 一整个SRT文件中，生词只在第一次出现? (Optional)
