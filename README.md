@@ -15,6 +15,9 @@
 
 ```bash
 zimubao.py /path/to/your/subtitles.srt
+
+# batch:
+for i in *;do echo $i;zimubao.py "$i";done
 ```
 
 ## TODO
@@ -28,7 +31,9 @@ zimubao.py /path/to/your/subtitles.srt
  - [ ] 引入自然语言处理的库,如Word API
  - [X] argparse
  - [ ] argparse: stdin
+ - [ ] argparse: 处理多个文件 `*`
  - [ ] publish to pip
  - [X] 处理codec错误的情况，PySRT承.受.不.了: `iconv -f ISO-8859-1 -t utf8`
  - [ ] 一条字幕中的重复单词
  - [ ] 一整个SRT文件中，生词只在第一次出现? (Optional)
+ - [ ] 或者根本就不用PySRT，直接全文替换得了....简单方便
