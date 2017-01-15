@@ -18,7 +18,10 @@ for d in dictbook:
     dictionary[l[0].lower()] = l[-1]
 
 ## PySRT
-subs = pysrt.open(args.filename,'utf8')
+try:
+    subs = pysrt.open(args.filename)
+except:
+    subs = pysrt.open(args.filename, encoding='iso-8859-1')
 
 for i in subs:
     #print i.text
@@ -28,7 +31,7 @@ for i in subs:
         print t
         i.text += "%s : %s\n"%(t, dictionary[t].decode('utf8'))
 
-subs.save(args.filename.replace(".srt",".filtered-zimubao-GRE.srt"))
+subs.save(args.filename.replace(".srt",".filtered-zimubao-GRE.srt"), encoding='utf-8')
 
 
 ## TODO: 动词变形什么的怎么办?

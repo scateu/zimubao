@@ -3561,7 +3561,6 @@ mawkish ['mɔ:kiʃ] a.伤感的；淡而无味的；令人作呕的
 maximize ['mæksmaiz] v.使增至最大限度
 maze [meiz] n.迷宫
 meager ['mi:ɡə(r)] a.贫乏的；削瘦的
-mean [mi:n] a.(行为)卑贱的；(金钱方面)吝啬的
 meander [mi'ændə] v.(河流)蜿蜒而流；漫步
 measly ['mi:zli] a.患麻疹的；（大小，数量，价值）小得可怜的
 measured ['meʒəd] a.精确的；慎重的
@@ -6103,7 +6102,6 @@ walrus ['wɔ:lrəs] n.海象
 wan [wɔn] a.虚弱的；病容的，(面色)苍白憔悴的
 wanderlust ['wɔndəlʌst] n.漫游癖，旅游热
 wane [wein] v.减少，变小，衰微
-want [wɔnt] n.缺乏，贫困，需要
 wardrobe ['wɔ:drəub] n.衣橱；全部服装
 warehouse ['weəhaus] n.仓库，货栈
 warmonger ['wɔ:mʌŋɡə] n.好战者，战争贩子
